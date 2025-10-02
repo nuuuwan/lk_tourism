@@ -81,7 +81,8 @@ class WeeklyReports(AbstractPDFDoc):
     @classmethod
     def gen_docs(cls) -> Generator["WeeklyReports", None, None]:
         for url_year in cls.gen_year_urls():
-            yield from cls.gen_docs_for_year(url_year)
+            for doc in cls.gen_docs_for_year(url_year):
+                yield doc
 
     @classmethod
     def run_pipeline(cls, max_dt=None):
