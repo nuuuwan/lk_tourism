@@ -1,7 +1,7 @@
 from utils import Log, TimeFormat
 
 from lk_tourism.WeeklyReports import WeeklyReports
-from utils_future import WWW
+from utils import WWW
 
 log = Log("MonthlyReports")
 

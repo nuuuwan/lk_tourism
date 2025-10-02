@@ -4,7 +4,7 @@ from typing import Generator
 from utils import Log, TimeFormat
 
 from scraper import AbstractPDFDoc, GlobalReadMe
-from utils_future import WWW
+from utils import WWW
 
 log = Log("WeeklyReports")
 
