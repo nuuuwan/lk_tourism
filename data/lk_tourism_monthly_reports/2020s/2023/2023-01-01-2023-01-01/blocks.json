@@ -1,0 +1,6321 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      35.44,
+      305.41,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | December 2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      518.62,
+      35.44,
+      523.09,
+      44.41
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      156.98,
+      633.26,
+      578.71,
+      663.37
+    ],
+    "text": "Monthly Tourist Arrivals Report:",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      27.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      142.7,
+      678.54,
+      560.76,
+      717.33
+    ],
+    "text": "A Monthly Snapshot of International Arrivals to Sri Lanka from Immigration Statistics",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      401.47,
+      746.35,
+      566.98,
+      774.18
+    ],
+    "text": "January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      24.959999084472656
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.29,
+      786.22,
+      564.21,
+      802.95
+    ],
+    "text": "Sri Lanka Tourism Development Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      35.44,
+      305.41,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | December 2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      526.66,
+      35.44,
+      531.13,
+      44.41
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      298.58,
+      536.63,
+      756.78
+    ],
+    "text": "Introduction The following document provides a synthesis of the most recent January, 2023 international visitor arrivals data sourced from the Department of Immigration & Emigration. The data is current as of 31st January 2023, and subject to change. The data provides an overview of month-on-month and annual changes in visitor arrivals to Sri Lanka from international source markets. The data is meant to provide an overview of how travel and tourism is performing to Sri Lanka. This report is developed by the Research & International Relations Division at Sri Lanka Tourism Development Authority (SLTDA).Questions, comments and feedback are welcome and will support the future amendment and enhancement of the report to ensure it meets the data and insights needs of Sri Lanka\u2019s Government and industry stakeholders.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.0,
+      9.960000038146973,
+      11.039999961853027,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      35.44,
+      305.41,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | December 2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      526.66,
+      35.44,
+      531.13,
+      44.41
+    ],
+    "text": "3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      106.56,
+      243.22,
+      128.91
+    ],
+    "text": "Table of contents",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      157.28,
+      525.65,
+      170.66
+    ],
+    "text": "Summary .................................................................................................................... 4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      190.88,
+      525.65,
+      204.26
+    ],
+    "text": "Tourist arrivals by region and percentage share, January 2023 ................................. 5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      224.48,
+      525.92,
+      237.86
+    ],
+    "text": "Top primary markets and top potential markets, January 2023 ................................. 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      258.11,
+      525.65,
+      271.49
+    ],
+    "text": "Top ten source markets, January 2023 ..................................................................... 8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      285.67,
+      527.6,
+      308.33
+    ],
+    "text": "Tourist arrivals by purpose of visit, January 2023 \u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...\u2026\u2026.......9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      332.63,
+      526.4,
+      346.01
+    ],
+    "text": "International tourist arrivals by country of residence\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      370.19,
+      527.45,
+      383.57
+    ],
+    "text": "Main last departure airports and airlines to Sri Lanka, January 2023..\u2026\u2026..\u2026\u2026......13",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      35.44,
+      305.41,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | December 2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      526.66,
+      35.44,
+      531.13,
+      44.41
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      67.97,
+      154.06,
+      88.04
+    ],
+    "text": "Summary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      103.55,
+      282.96,
+      217.62
+    ],
+    "text": "The total number of international tourist arrivals to Sri Lanka during January 2023 was 102,545. This is an increase of 24.5% compared to January 2022 and reaching 43% pre pandemic levels (2018). This trend can be attributed to the peak travel season in Sri Lanka, as well as the other factors such as resumed cruise tourism",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      315.31,
+      103.55,
+      526.25,
+      217.62
+    ],
+    "text": "and increased connectivity to the country. In addition to the pent-up demand, the relaxation of travel restrictions in various source markets is also crucial in the travel recovery.The top countries of origin for tourists in January were Russian Federation, India, the United Kingdom, Germany and France.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      234.47,
+      313.53,
+      246.78
+    ],
+    "text": "Table 1. Monthly tourist arrivals, January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97.34,
+      275.68,
+      383.1,
+      286.78
+    ],
+    "text": "Month 2022 2023 % change",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338.95,
+      287.2,
+      377.84,
+      298.3
+    ],
+    "text": "2023/22",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      310.72,
+      369.56,
+      321.94
+    ],
+    "text": "January 82,327 102,545 24.5",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      334.24,
+      359.84,
+      345.46
+    ],
+    "text": "February 96,507",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      357.76,
+      359.84,
+      368.98
+    ],
+    "text": "March 106,500",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      381.28,
+      359.84,
+      392.5
+    ],
+    "text": "April 62,980",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      404.68,
+      359.84,
+      415.9
+    ],
+    "text": "May 30,207",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      428.2,
+      359.84,
+      439.42
+    ],
+    "text": "June 32,856",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      451.74,
+      359.84,
+      462.96
+    ],
+    "text": "July 47,293",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      475.26,
+      359.84,
+      486.48
+    ],
+    "text": "August 37,760",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      498.78,
+      359.84,
+      510.0
+    ],
+    "text": "September 29,802",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      522.3,
+      359.84,
+      533.52
+    ],
+    "text": "October 42,026",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      545.7,
+      359.84,
+      556.92
+    ],
+    "text": "November 59,759",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.42,
+      569.22,
+      359.84,
+      580.44
+    ],
+    "text": "December 91,961",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.66,
+      592.72,
+      360.97,
+      608.54
+    ],
+    "text": "TOTAL 719,978",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      343.15,
+      656.77,
+      539.5,
+      671.22
+    ],
+    "text": "Tourist Arrivals | January 2023",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      374.35,
+      675.04,
+      514.59,
+      715.18
+    ],
+    "text": "102,545",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      36.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      35.44,
+      303.13,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | December 2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      537.7,
+      33.64,
+      542.17,
+      42.61
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.86,
+      85.49,
+      491.22,
+      105.56
+    ],
+    "text": "Tourist arrivals by region and percentage share",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      106.01,
+      359.55,
+      139.02
+    ],
+    "text": "January 2023",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      151.07,
+      358.22,
+      163.38
+    ],
+    "text": "Map 1.Tourist arrivals by region and percentage share",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      495.4,
+      278.16,
+      507.71
+    ],
+    "text": "Europe emerged as the primary source of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      511.84,
+      272.04,
+      524.15
+    ],
+    "text": "tourists visiting Sri Lanka, accounting for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      528.16,
+      269.64,
+      540.47
+    ],
+    "text": "66.1% of total arrivals. It is believed that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      544.6,
+      269.04,
+      556.91
+    ],
+    "text": "pent-up demand from countries such as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      561.04,
+      264.72,
+      573.35
+    ],
+    "text": "the Russian Federation, UK, Germany,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      577.36,
+      282.31,
+      589.67
+    ],
+    "text": "France and Israel contributed to this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      593.8,
+      170.49,
+      606.11
+    ],
+    "text": "increase in tourism.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      626.59,
+      270.72,
+      638.9
+    ],
+    "text": "Meanwhile, 25.3% of tourists came from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      643.03,
+      279.96,
+      655.34
+    ],
+    "text": "Asia and the Pacific region, 6.4% from the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      659.47,
+      280.56,
+      671.78
+    ],
+    "text": "Americas, and 1.5% from the Middle East.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      675.79,
+      242.04,
+      688.1
+    ],
+    "text": "Factors such as the lifting of travel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      692.23,
+      275.04,
+      704.54
+    ],
+    "text": "restrictions and improved air accessibility",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      708.67,
+      253.68,
+      720.98
+    ],
+    "text": "in Sri Lanka could be the factors that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      724.99,
+      249.96,
+      737.3
+    ],
+    "text": "contributed to the growth in tourism.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      316.03,
+      495.4,
+      526.01,
+      507.71
+    ],
+    "text": "According to the UNWTO, international",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      316.03,
+      511.84,
+      525.97,
+      524.15
+    ],
+    "text": "tourism is expected to further recover in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      316.03,
+      528.16,
+      526.06,
+      540.47
+    ],
+    "text": "2023 due to growing demand. However,the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      316.03,
+      544.6,
+      526.02,
+      556.91
+    ],
+    "text": "international tourism's sustained recovery",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      316.03,
+      561.04,
+      526.0,
+      573.35
+    ],
+    "text": "may be hindered by economic, health and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      316.03,
+      577.36,
+      426.74,
+      589.67
+    ],
+    "text": "geopolitical obstacles.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.3,
+      321.62,
+      130.05,
+      333.93
+    ],
+    "text": "AMERICAS",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.74,
+      337.57,
+      126.98,
+      377.2
+    ],
+    "text": "6,652 6.4 %",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      239.93,
+      387.74,
+      284.52,
+      400.05
+    ],
+    "text": "AFRICA",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      240.29,
+      403.5,
+      285.65,
+      445.02
+    ],
+    "text": "459 0.4 %",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      15.960000038146973,
+      18.02400016784668
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      268.61,
+      208.07,
+      322.03,
+      241.81
+    ],
+    "text": "EUROPE 67,855",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      270.41,
+      245.35,
+      320.23,
+      263.18
+    ],
+    "text": "66.1%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      15.984000205993652
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      325.15,
+      314.78,
+      402.74,
+      327.09
+    ],
+    "text": "MIDDLE EAST",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      331.87,
+      330.56,
+      397.95,
+      374.39
+    ],
+    "text": "1,570 1.5 %",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      458.62,
+      283.34,
+      546.05,
+      295.65
+    ],
+    "text": "ASIA & PACIFIC",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      467.86,
+      299.12,
+      538.86,
+      343.43
+    ],
+    "text": "26,009 25.3 %",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      557.64,
+      31.43,
+      565.93,
+      42.53
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      35.44,
+      298.93,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report December 2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96.74,
+      85.49,
+      473.94,
+      105.56
+    ],
+    "text": "Top primary markets and top potential markets",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.82,
+      116.21,
+      424.83,
+      136.28
+    ],
+    "text": "Top primary markets - January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      15.960000038146973,
+      18.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      692.49,
+      529.37,
+      796.11
+    ],
+    "text": "Note: The top primary markets for Sri Lanka have been identified using visitor arrivals data during the last six months. The previous methodology used to identify the markets was altered due to the current arrival trends in the source markets and the economic crisis in Sri Lanka. The intention is to track these source markets on a go-forward basis to understand future performance of Sri Lanka\u2019s tourism economy, including during the projected international tourism recovery period, 2022-2025.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.66,
+      321.38,
+      271.92,
+      348.21
+    ],
+    "text": "Germany Arrivals: 8,217 | % Share : 8.0",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      123.86,
+      645.07,
+      270.0,
+      671.9
+    ],
+    "text": "Israel Arrivals: 1,868 | % Share: 1.8",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.18,
+      264.98,
+      204.56,
+      277.29
+    ],
+    "text": "United Kingdom",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.18,
+      279.5,
+      268.44,
+      293.13
+    ],
+    "text": "Arrivals: 8,483 | % Share : 8.2",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.94,
+      375.86,
+      268.08,
+      403.29
+    ],
+    "text": "France Arrivals: 4,840 | % Share: 4.7",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      113.9,
+      165.23,
+      278.4,
+      206.82
+    ],
+    "text": "Russia, Arrivals : 25,254 | % Share: 24.6",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      118.1,
+      218.39,
+      276.48,
+      245.22
+    ],
+    "text": "India Arrivals: 13,759 | % Share: 13.4",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.78,
+      483.76,
+      262.92,
+      510.59
+    ],
+    "text": "Australia Arrivals: 3,668 | % Share 3.5",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.42,
+      537.76,
+      265.56,
+      565.19
+    ],
+    "text": "United States Arrivals: 2,636 | % Share: 2.5",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.34,
+      431.2,
+      270.6,
+      458.03
+    ],
+    "text": "Canada Arrivals: 3,681 | % Share: 3.5",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      375.79,
+      216.71,
+      521.93,
+      243.54
+    ],
+    "text": "Netherlands Arrivals: 1,514 | % Share: 1.4",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      374.35,
+      165.47,
+      526.73,
+      192.3
+    ],
+    "text": "Switzerland Arrivals: 1,769 | % Share : 1.7",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      123.38,
+      588.64,
+      266.52,
+      615.47
+    ],
+    "text": "Maldives Arrivals: 2,203 | % Share 2.1",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      558.0,
+      30.83,
+      566.29,
+      41.93
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      375.79,
+      265.7,
+      521.93,
+      292.65
+    ],
+    "text": "Italy Arrivals: 1,477 | % Share: 1.4",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      375.79,
+      321.26,
+      521.93,
+      348.09
+    ],
+    "text": "Poland Arrivals: 1,269 | % Share: 1.2",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      373.51,
+      373.7,
+      519.65,
+      400.65
+    ],
+    "text": "Belarus Arrivals: 1,204 | % Share: 1.1",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      375.79,
+      428.18,
+      521.93,
+      455.03
+    ],
+    "text": "Denmark Arrivals: 1,081 | % Share: 1.0",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      382.51,
+      481.0,
+      522.53,
+      507.83
+    ],
+    "text": "Czech Republic Arrivals: 960 | % Share : 0.9",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      384.91,
+      538.0,
+      521.93,
+      564.83
+    ],
+    "text": "Austria Arrivals: 956 | % Share: 0.9",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      382.51,
+      589.0,
+      519.53,
+      615.83
+    ],
+    "text": "Ukraine Arrivals: 884 | % Share: 0.8",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      382.63,
+      645.31,
+      522.65,
+      672.14
+    ],
+    "text": "Sweden Arrivals: 871 | % Share: 0.8",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      35.44,
+      298.93,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report December 2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      83.57,
+      364.35,
+      103.64
+    ],
+    "text": "Top Potential markets - January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      15.960000038146973,
+      18.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      435.66,
+      529.29,
+      499.68
+    ],
+    "text": "Note: The top primary markets for Sri Lanka have been identified using visitor arrivals data during the last six months. The previous methodology used to identify the markets was altered due to the current arrival trends in the source markets and the economic crisis in Sri Lanka. The intention is to track these source markets on a go-forward basis to understand future performance of Sri Lanka\u2019s tourism economy, including during the projected international tourism recovery period, 2022-2025.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      559.44,
+      32.03,
+      567.73,
+      43.13
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118.94,
+      129.23,
+      255.96,
+      156.06
+    ],
+    "text": "Spain Arrivals: 857 | % Share: 0.8",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118.22,
+      186.95,
+      258.24,
+      213.78
+    ],
+    "text": "China Arrivals: 835 | % Share: 0.8",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118.46,
+      248.27,
+      258.48,
+      275.13
+    ],
+    "text": "Japan Arrivals: 744 | % Share : 0.7",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      316.7,
+      252.24,
+      343.65
+    ],
+    "text": "Bangaladesh Arrivals: 717 | % Share: 0.6",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113.06,
+      372.98,
+      256.2,
+      400.29
+    ],
+    "text": "Norway Arrivals: 698 | % Share : 0.6",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      369.07,
+      129.23,
+      509.09,
+      156.06
+    ],
+    "text": "Belgium Arrivals: 646 | % Share: 0.6",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      369.07,
+      186.95,
+      509.09,
+      213.78
+    ],
+    "text": "Pakistan Arrivals: 595 | % Share : 0.5",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      369.07,
+      248.51,
+      509.09,
+      275.37
+    ],
+    "text": "Malayasia Arrivals : 496 | % Share: 0.4",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      363.43,
+      311.54,
+      506.57,
+      338.37
+    ],
+    "text": "Kazakaztan Arrivals: 470 | % Share:1.1",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      369.07,
+      371.54,
+      512.21,
+      398.37
+    ],
+    "text": "South Korea Arrivals: 450 | % Share: 0.4",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      35.44,
+      298.93,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report December 2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      83.52,
+      285.7,
+      105.87
+    ],
+    "text": "Top ten source markets",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      18.0,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      119.4,
+      186.7,
+      141.75
+    ],
+    "text": "January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      156.83,
+      526.11,
+      245.1
+    ],
+    "text": "In January, the top five countries that generated the most international tourism to Sri Lanka were the Russian Federation, India, the United Kingdom, Germany and France. The Russian Federation was the leading source of tourists, accounting for 25% of total arrivals. India accounted for 13%, the United Kingdom for 8%, Germany for 8%, and France for 5%. The Russian Federation remained the top source of tourism to Sri Lanka, owing to increased air accessibility via direct and charter flights from Russia and favorable conditions within Sri Lanka.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      255.5,
+      523.38,
+      282.33
+    ],
+    "text": "The influx of 1309 tourists from three cruise ships too had a notable impact on the rise in the number of visitors.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      318.86,
+      381.98,
+      331.17
+    ],
+    "text": "Chart 1.Top ten source markets to Sri Lanka, January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      560.04,
+      27.59,
+      568.33,
+      38.69
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      420.24,
+      360.07,
+      456.34,
+      372.38
+    ],
+    "text": "Russia",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      427.32,
+      372.67,
+      449.37,
+      384.98
+    ],
+    "text": "25%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      465.67,
+      564.98,
+      491.47,
+      577.29
+    ],
+    "text": "India",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      467.59,
+      577.58,
+      489.64,
+      589.89
+    ],
+    "text": "13%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      398.66,
+      665.23,
+      446.37,
+      690.14
+    ],
+    "text": "United Kingdom",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      285.02,
+      683.23,
+      430.55,
+      702.86
+    ],
+    "text": "8%Germany",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198.86,
+      683.15,
+      316.82,
+      708.14
+    ],
+    "text": "8%France",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      208.94,
+      695.75,
+      224.87,
+      708.06
+    ],
+    "text": "5%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      130.94,
+      671.35,
+      170.67,
+      683.66
+    ],
+    "text": "Canada",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142.82,
+      683.95,
+      158.75,
+      696.26
+    ],
+    "text": "4%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88.51,
+      645.59,
+      135.42,
+      657.9
+    ],
+    "text": "Australia",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      103.99,
+      658.19,
+      119.92,
+      670.5
+    ],
+    "text": "4%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.0,
+      596.51,
+      139.42,
+      608.82
+    ],
+    "text": "United States",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      96.24,
+      609.11,
+      112.17,
+      621.42
+    ],
+    "text": "2%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.41,
+      549.74,
+      115.97,
+      562.05
+    ],
+    "text": "Maldives",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.77,
+      562.34,
+      100.7,
+      574.65
+    ],
+    "text": "2%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.64,
+      490.31,
+      97.53,
+      502.62
+    ],
+    "text": "Israel",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      75.12,
+      502.91,
+      91.05,
+      515.22
+    ],
+    "text": "2%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.8,
+      369.88,
+      139.35,
+      382.19
+    ],
+    "text": "Other",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      110.64,
+      382.48,
+      132.69,
+      394.79
+    ],
+    "text": "27%",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      35.44,
+      299.17,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      542.38,
+      31.6,
+      546.85,
+      40.57
+    ],
+    "text": "9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      85.79,
+      388.22,
+      98.1
+    ],
+    "text": "Table 2. Top ten source markets to Sri Lanka, January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.86,
+      154.67,
+      176.45,
+      179.7
+    ],
+    "text": "Rank Country of Residence",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      258.17,
+      145.31,
+      544.49,
+      157.62
+    ],
+    "text": "Tourist Arrivals (January 2023 ) Tourist Arrivals",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      242.09,
+      170.39,
+      533.51,
+      182.7
+    ],
+    "text": "By Air By Sea Total (January 2022)",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89.3,
+      192.95,
+      520.61,
+      207.78
+    ],
+    "text": "1 Russian Federation 25,254 0 25,254 13,478",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89.3,
+      211.55,
+      520.61,
+      226.38
+    ],
+    "text": "2 India 13,759 0 13,759 11,751",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89.3,
+      230.15,
+      517.61,
+      242.46
+    ],
+    "text": "3 United Kingdom 8,472 11 8,483 7,442",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89.3,
+      248.75,
+      517.61,
+      274.77
+    ],
+    "text": "4 Germany 7,106 1,111 8,217 5,339 5 France 4,836 4 4,840 3,616",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.18,
+      281.42,
+      517.61,
+      348.33
+    ],
+    "text": "6 Canada 3,676 5 3,681 1,666 7 Australia 3,660 8 3,668 2,814 8 United States 2,576 60 2,636 1,829 9 Maldives 2,203 0 2,203 2,401 10 Israel 1,868 0 1,868 707",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      564.12,
+      17.39,
+      572.41,
+      28.49
+    ],
+    "text": "9",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      35.44,
+      299.17,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      542.38,
+      31.6,
+      551.29,
+      40.57
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      63.34,
+      375.6,
+      154.71
+    ],
+    "text": "Tourist arrivals by purpose of visit January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      163.67,
+      526.13,
+      234.06
+    ],
+    "text": "An analysis of tourist arrivals by purpose of visit reveals that a majority 55.7% of tourists had visited Sri Lanka for pleasure/vacation, while for 17% of tourists the main purpose was visiting friends and relatives. Only 4.5% of tourists had visited for business related purposes. 6% had visited for MICE purposes, while 1.1% and 0.2% had visited for purposes such as health / ayuruvedic and sports.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      241.43,
+      526.12,
+      384.57
+    ],
+    "text": "The majority of tourists visiting Sri Lanka from the top source markets of Russia, India, Germany, the United Kingdom, France, and Israel, travelled to Sri Lanka for pleasure or vacation. Specifically, 57% of tourists from Russia, 52.4% from India, 70% from Germany, 52% from the United Kingdom, 70% from France, and 69% from Israel visited Sri Lanka for this purpose. It is noteworthy that for majority of tourists from Canada(73%) and Australia(67%) the main purpose of visit was seeing their friends and relatives. Only 20% of tourists from Canada and 23% of tourists from Australia had come for pleasure/vacation purpose. Further 18.5% of tourists from Israel and 7.4% of Indians had come to Sri Lanka for Meetiings, Incentives, Conferences and Exhibitions while 22.3% of Indians had visited Sri Lanka for Business purposes.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      405.3,
+      377.05,
+      420.96
+    ],
+    "text": "Chart 2 :Purpose of visit vs main source markets",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      567.24,
+      12.83,
+      581.17,
+      23.93
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      35.44,
+      299.17,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      542.38,
+      31.6,
+      551.29,
+      40.57
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      110.78,
+      88.01,
+      523.63,
+      108.08
+    ],
+    "text": "International tourist arrivals by country of residence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      18.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      127.19,
+      437.26,
+      152.22
+    ],
+    "text": "January 2023 Tourist Arrivals",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      401.47,
+      152.51,
+      429.02,
+      177.54
+    ],
+    "text": "Jan. 2022",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      454.3,
+      127.19,
+      497.7,
+      152.22
+    ],
+    "text": "% Change",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      166.46,
+      150.71,
+      494.93,
+      177.54
+    ],
+    "text": "Jan. (23/22) Tourist Arrivals",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      168.95,
+      373.58,
+      197.82
+    ],
+    "text": "By Air By Sea Total AMERICAS",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      231.41,
+      182.51,
+      261.96,
+      198.42
+    ],
+    "text": "6,587",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      297.29,
+      182.51,
+      312.62,
+      198.42
+    ],
+    "text": "65",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      343.63,
+      182.51,
+      374.18,
+      197.22
+    ],
+    "text": "6,652",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      400.03,
+      182.51,
+      430.61,
+      197.22
+    ],
+    "text": "3,691",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      460.78,
+      182.51,
+      491.33,
+      197.22
+    ],
+    "text": "80.22",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      204.83,
+      201.36,
+      217.14
+    ],
+    "text": "North America",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      231.41,
+      201.83,
+      261.96,
+      220.02
+    ],
+    "text": "6,271",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      297.29,
+      201.83,
+      312.62,
+      218.82
+    ],
+    "text": "65",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      343.63,
+      201.83,
+      374.18,
+      218.82
+    ],
+    "text": "6,336",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      400.03,
+      201.83,
+      491.33,
+      218.82
+    ],
+    "text": "3,516 80.20",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      221.51,
+      494.33,
+      235.98
+    ],
+    "text": "Canada 3,676 5 3,681 1,666 120.95",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      239.51,
+      494.93,
+      253.38
+    ],
+    "text": "Mexico 19 0 19 21 ( 9.52 )",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      256.22,
+      491.33,
+      270.09
+    ],
+    "text": "United States 2,576 60 2,636 1,829 44.12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      276.14,
+      209.88,
+      301.17
+    ],
+    "text": "Carribean & Central America",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      238.97,
+      272.78,
+      254.28,
+      296.73
+    ],
+    "text": "48",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      300.41,
+      272.78,
+      309.62,
+      295.53
+    ],
+    "text": "0",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      351.31,
+      272.78,
+      366.62,
+      297.81
+    ],
+    "text": "48",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      407.59,
+      272.78,
+      422.9,
+      297.81
+    ],
+    "text": "24",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      457.66,
+      272.78,
+      494.33,
+      296.73
+    ],
+    "text": "100.00",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      305.9,
+      491.33,
+      319.77
+    ],
+    "text": "Costa Rica 06 0 06 4 50.00",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      322.58,
+      494.93,
+      337.53
+    ],
+    "text": "Jamaica 01 0 01 2 (50.00)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      341.54,
+      494.33,
+      355.41
+    ],
+    "text": "Others 41 0 41 18 127.78",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      375.62,
+      491.33,
+      391.65
+    ],
+    "text": "South America 268 0 268 151 77.48",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      396.86,
+      494.33,
+      413.01
+    ],
+    "text": "Argentina 76 0 76 29 162.07",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      418.1,
+      494.33,
+      431.97
+    ],
+    "text": "Brazil 101 0 101 49 106.12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      434.92,
+      496.49,
+      448.79
+    ],
+    "text": "Chile 26 0 26 29 ( 10.34)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      451.72,
+      491.33,
+      465.59
+    ],
+    "text": "Colombia 36 0 36 20 80.00",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      468.4,
+      491.33,
+      482.27
+    ],
+    "text": "Others 29 0 29 24 20.83",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      502.6,
+      488.21,
+      516.47
+    ],
+    "text": "AFRICA 457 2 459 420 9.29",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      522.16,
+      189.12,
+      534.47
+    ],
+    "text": "North Africa",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      235.97,
+      519.16,
+      257.4,
+      537.35
+    ],
+    "text": "172",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      300.41,
+      519.16,
+      309.62,
+      537.35
+    ],
+    "text": "0",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      348.19,
+      519.16,
+      369.62,
+      536.27
+    ],
+    "text": "172",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      404.59,
+      519.16,
+      496.49,
+      535.07
+    ],
+    "text": "212 ( 18.87)",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      538.84,
+      491.33,
+      552.71
+    ],
+    "text": "Morocco 47 0 47 29 62.07",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      555.52,
+      494.93,
+      569.39
+    ],
+    "text": "Sudan 61 0 61 147 (58.50)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      572.32,
+      491.33,
+      586.19
+    ],
+    "text": "Others 64 0 64 36 77.78",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      606.4,
+      193.41,
+      631.46
+    ],
+    "text": "Sub-Saharan Africa",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      235.97,
+      606.28,
+      257.4,
+      631.46
+    ],
+    "text": "285",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      300.41,
+      606.28,
+      309.62,
+      630.26
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      348.19,
+      606.28,
+      369.62,
+      631.46
+    ],
+    "text": "287",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      404.59,
+      606.4,
+      426.02,
+      631.46
+    ],
+    "text": "208",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      460.78,
+      606.28,
+      491.33,
+      630.26
+    ],
+    "text": "37.98",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      632.95,
+      491.33,
+      646.82
+    ],
+    "text": "Kenya 23 0 23 19 21.05",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      649.63,
+      494.33,
+      663.5
+    ],
+    "text": "Mauritius 19 0 19 7 171.43",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      666.43,
+      494.33,
+      680.66
+    ],
+    "text": "Nigeria 10 0 10 5 100.00",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      683.95,
+      491.33,
+      697.82
+    ],
+    "text": "South Africa 123 2 125 73 71.23",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      700.63,
+      488.21,
+      714.5
+    ],
+    "text": "Others 110 0 110 104 5.77",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      35.44,
+      299.17,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      542.38,
+      31.6,
+      551.29,
+      40.57
+    ],
+    "text": "12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117.86,
+      104.51,
+      475.37,
+      131.34
+    ],
+    "text": "January 2023 Tourist Arrivals",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      433.3,
+      131.63,
+      463.85,
+      156.66
+    ],
+    "text": "Jan. 2022",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      488.5,
+      106.31,
+      538.13,
+      131.34
+    ],
+    "text": "% Change",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      491.26,
+      131.63,
+      529.13,
+      156.66
+    ],
+    "text": "Jan. (23/22)",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168.62,
+      120.83,
+      578.11,
+      137.58
+    ],
+    "text": "Tourist Arrivals",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117.86,
+      141.71,
+      400.94,
+      154.02
+    ],
+    "text": "By Air By Sea Total",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117.86,
+      161.75,
+      205.32,
+      174.06
+    ],
+    "text": "ASIA & PACIFIC",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      241.97,
+      161.63,
+      278.64,
+      175.14
+    ],
+    "text": "26,000",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      320.95,
+      161.63,
+      330.14,
+      175.14
+    ],
+    "text": "9",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      367.87,
+      161.63,
+      465.41,
+      175.14
+    ],
+    "text": "26,009 19,531",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117.86,
+      161.63,
+      530.69,
+      279.57
+    ],
+    "text": "33.17 North East Asia 2,181 1 2,182 449 385.97 China 835 0 835 226 269.47 Japan 743 1 744 92 708.70 South Korea 450 0 450 104 332.69 Taiwan 151 0 151 13 - Others 02 0 02 14 ( 85.71) South East Asia",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244.97,
+      267.14,
+      275.52,
+      285.33
+    ],
+    "text": "1,715",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      320.95,
+      267.14,
+      330.14,
+      285.33
+    ],
+    "text": "0",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      370.99,
+      267.14,
+      401.54,
+      285.33
+    ],
+    "text": "1,715",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      436.42,
+      267.14,
+      457.85,
+      284.13
+    ],
+    "text": "700",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117.86,
+      267.14,
+      528.53,
+      467.15
+    ],
+    "text": "145.00 Cambodia 31 0 31 21 47.62 Indonesia 138 0 138 75 84.00 Malaysia 496 0 496 159 211.95 Myanmar 35 0 35 16 118.75 Philippines 188 0 188 109 72.48 Singapore 414 0 414 229 80.79 Thailand 279 0 279 72 287.50 Vietnam 117 0 117 17 588.24 Others 17 0 17 2 750.00 Oceania 4,062 8 4,070 2,928 39.00 Australia 3,660 8 3,668 2,814 30.35 New Zealand 394 0 394 112 251.79",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117.86,
+      476.8,
+      528.53,
+      634.66
+    ],
+    "text": "Others 08 0 8 2 300.00 South Asia 18,042 0 18,042 15,454 16.75 Afghanistan 09 0 09 0 - Bangladesh 717 0 717 302 137.42 Bhutan 32 0 32 30 6.67 India 13,759 0 13,759 11,751 17.09 Iran 435 0 435 260 67.31 Maldives 2,203 0 2,203 2,401 ( 8.25) Nepal 292 0 292 100 192.00 Pakistan 595 0 595 610 ( 2.46) EUROPE 66,622 1,233 67,855 56,605 19.87",
+    "fonts": [
+      "Calibri",
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117.86,
+      635.11,
+      508.93,
+      649.94
+    ],
+    "text": "Northern Europe",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      241.97,
+      637.51,
+      278.64,
+      655.7
+    ],
+    "text": "11,653",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      317.83,
+      637.51,
+      333.14,
+      655.7
+    ],
+    "text": "14",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      367.87,
+      637.51,
+      525.41,
+      655.7
+    ],
+    "text": "11,667 10,168 14.74",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      117.86,
+      663.31,
+      527.57,
+      762.49
+    ],
+    "text": "Denmark 1,080 1 1,081 1,013 6.71 Finland 257 0 257 271 ( 5.17) Norway 698 0 698 521 33.97 Sweden 871 0 871 683 27.53 United Kingdom 8,472 11 8,483 7,442 13.99 Others 275 2 277 238 16.39",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      35.44,
+      299.17,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      542.38,
+      31.6,
+      551.29,
+      40.57
+    ],
+    "text": "13",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126.86,
+      90.71,
+      354.5,
+      115.62
+    ],
+    "text": "January 2023",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      413.83,
+      93.11,
+      464.09,
+      118.02
+    ],
+    "text": "Tourist Arrivals",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      421.99,
+      118.43,
+      449.57,
+      143.34
+    ],
+    "text": "Jan. 2022",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      470.62,
+      93.11,
+      533.09,
+      118.02
+    ],
+    "text": "% Change",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126.86,
+      118.43,
+      517.73,
+      281.25
+    ],
+    "text": "Jan. (23/22) Tourist Arrivals By Air By Sea Total Western Europe 16,779 1,205 17,984 12,578 42.98 Austria 913 43 956 788 21.32 Belgium 646 0 646 495 30.51 France 4,836 4 4,840 3,616 33.85 Germany 7,106 1111 8,217 5,339 53.91 Netherlands 1,510 4 1,514 1,141 32.69 Switzerland 1,731 38 1,769 1,186 49.16 Others 37 5 42 13 223.08 Central/ Eastern Europe",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      241.97,
+      256.19,
+      278.64,
+      275.49
+    ],
+    "text": "32,730",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      316.39,
+      256.19,
+      325.58,
+      274.41
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      358.87,
+      256.19,
+      395.54,
+      274.41
+    ],
+    "text": "32,738",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      417.43,
+      256.19,
+      454.13,
+      274.41
+    ],
+    "text": "31,284",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      486.58,
+      256.19,
+      511.01,
+      274.41
+    ],
+    "text": "4.65",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126.86,
+      282.74,
+      517.73,
+      484.07
+    ],
+    "text": "Belarus 1,204 0 1,204 736 63.59 Czech Republic 960 0 960 1,174 (18.23) Estonia 182 0 182 185 (1.62) Hungary 400 0 400 425 (5.88) Kazakhstan 470 0 470 2,041 (76.97) Lithuania 278 0 278 352 (21.02) Poland 1,264 5 1,269 3,185 (60.16) Romania 314 2 316 528 (40.15) Russia 25,254 0 25,254 13,478 87.37 Slovakia 351 0 351 363 (3.31) Ukraine 883 1 884 7,774 (88.63) Others 1,170 0 1,170 1,043 12.18 Southern/ Mediterranean Europe",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      244.97,
+      446.32,
+      275.52,
+      471.35
+    ],
+    "text": "5,460",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      316.39,
+      446.32,
+      325.58,
+      471.35
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      361.99,
+      446.32,
+      392.54,
+      470.27
+    ],
+    "text": "5,466",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      420.55,
+      446.44,
+      451.13,
+      471.35
+    ],
+    "text": "2,575",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      480.46,
+      446.32,
+      517.13,
+      470.27
+    ],
+    "text": "112.27",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126.86,
+      485.44,
+      519.29,
+      743.54
+    ],
+    "text": "Greece 149 2 151 78 93.59 Italy 1,473 4 1,477 503 193.64 Portugal 230 0 230 157 46.50 Spain 857 0 857 597 43.55 Turkey 362 0 362 174 108.05 Israel 1,868 0 1,868 707 164.21 Others 521 0 521 359 45.13 MIDDLE EAST 1,570 0 1,570 2,080 ( 24.52) Bahrain 134 0 134 59 127.12 Egypt 127 0 127 217 ( 41.47) Iraq 63 0 63 72 (12.50) Jordan 261 0 261 224 16.52 Kuwait 162 0 162 36 350.00 Lebanon 111 0 111 87 27.59 Oman 183 0 183 101 81.19 Qatar 34 0 34 4 750.00 Saudi Arabia 340 0 340 1,167 (70.87) United Arab Emirates",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      249.53,
+      718.51,
+      514.01,
+      730.82
+    ],
+    "text": "101 0 101 64 57.81",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126.86,
+      744.9,
+      514.01,
+      758.53
+    ],
+    "text": "Others 54 0 54 49 10.20",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      126.86,
+      761.32,
+      515.6,
+      776.26
+    ],
+    "text": "TOTAL 101,236 1,309 102,545 82,327 24.56",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      35.44,
+      299.17,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      542.38,
+      31.6,
+      551.29,
+      40.57
+    ],
+    "text": "14",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      75.92,
+      461.6,
+      89.3
+    ],
+    "text": "Main last departure airports and airlines to Sri Lanka, January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      101.75,
+      519.77,
+      172.26
+    ],
+    "text": "Air connectivity is critical to the tourism industry in Sri Lanka, as shown by the analysis of departure airports. Chart 3 reveals that 39% of tourists had last departed from airports in Dubai, Doha and Chennai. Sri Lankan Airlines, Emirates and Qatar Airways were the most popular airlines, handling 57% of the tourists to Sri Lanka. Dubai stood out as the main last departure airport (19%), and Sri Lankan Airlines as the top main airline (33%).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      174.21,
+      405.86,
+      197.22
+    ],
+    "text": "Chart 3. Main last departure airports to Sri Lanka, January 2023",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      496.72,
+      327.62,
+      509.03
+    ],
+    "text": "Chart 4. Main airlines to Sri Lanka, January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      532.39,
+      221.51,
+      557.45,
+      231.55
+    ],
+    "text": "Dubai",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      535.99,
+      231.95,
+      554.07,
+      241.99
+    ],
+    "text": "19%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      521.57,
+      289.5,
+      546.63,
+      299.54
+    ],
+    "text": "Doha",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      523.97,
+      299.94,
+      542.05,
+      309.98
+    ],
+    "text": "11%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      500.88,
+      365.94,
+      536.48,
+      375.98
+    ],
+    "text": "Chennai",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      512.4,
+      376.38,
+      525.44,
+      386.42
+    ],
+    "text": "9%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      519.86,
+      432.97,
+      552.96,
+      443.01
+    ],
+    "text": "London",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      394.3,
+      434.05,
+      543.1,
+      453.45
+    ],
+    "text": "6%Vnukovo",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      309.0,
+      431.05,
+      419.94,
+      454.53
+    ],
+    "text": "5%Moscow.",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.02400016784668
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      231.96,
+      431.35,
+      334.9,
+      451.58
+    ],
+    "text": "4%Domodedovo",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      175.73,
+      431.88,
+      267.44,
+      451.82
+    ],
+    "text": "4%Abudhabi",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      131.21,
+      433.5,
+      203.17,
+      452.35
+    ],
+    "text": "4%Delhi",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      29.74,
+      433.33,
+      148.93,
+      453.98
+    ],
+    "text": "3%Kuala Lampur",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      53.38,
+      443.77,
+      66.42,
+      453.81
+    ],
+    "text": "3%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      31.44,
+      402.6,
+      53.48,
+      412.63
+    ],
+    "text": "Paris",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      36.12,
+      413.04,
+      49.16,
+      423.07
+    ],
+    "text": "3%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      30.26,
+      370.12,
+      74.41,
+      380.19
+    ],
+    "text": "Singapore",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.02400016784668
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      45.98,
+      380.6,
+      59.03,
+      390.64
+    ],
+    "text": "2%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      30.55,
+      341.27,
+      58.11,
+      351.31
+    ],
+    "text": "Sharja",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      37.99,
+      351.71,
+      51.03,
+      361.75
+    ],
+    "text": "2%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      32.11,
+      308.99,
+      52.2,
+      319.03
+    ],
+    "text": "Male",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      35.83,
+      319.43,
+      48.87,
+      329.47
+    ],
+    "text": "2%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      33.17,
+      277.98,
+      67.81,
+      288.05
+    ],
+    "text": "Istanbul",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.02400016784668
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      44.09,
+      288.48,
+      57.13,
+      298.51
+    ],
+    "text": "2%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      30.82,
+      220.88,
+      70.39,
+      230.92
+    ],
+    "text": "Frankfurt",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      44.26,
+      231.32,
+      57.3,
+      241.36
+    ],
+    "text": "2%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      32.52,
+      248.84,
+      66.68,
+      258.88
+    ],
+    "text": "Mumbai",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      43.2,
+      259.29,
+      56.26,
+      269.32
+    ],
+    "text": "2%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      91.34,
+      221.82,
+      122.5,
+      231.86
+    ],
+    "text": "Muscat",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      100.58,
+      232.26,
+      113.62,
+      242.3
+    ],
+    "text": "2%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      133.32,
+      219.95,
+      177.43,
+      229.99
+    ],
+    "text": "Bangalore",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      149.06,
+      230.37,
+      162.12,
+      240.44
+    ],
+    "text": "2%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.02400016784668
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      192.55,
+      219.95,
+      230.63,
+      229.99
+    ],
+    "text": "Bangkok",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      205.27,
+      230.37,
+      218.33,
+      240.44
+    ],
+    "text": "1%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.02400016784668
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      248.88,
+      222.75,
+      272.89,
+      232.79
+    ],
+    "text": "Other",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      252.0,
+      233.19,
+      270.08,
+      243.23
+    ],
+    "text": "14%",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      35.44,
+      299.17,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      542.38,
+      31.6,
+      551.29,
+      40.57
+    ],
+    "text": "15",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      63.39,
+      524.22,
+      131.12
+    ],
+    "text": "Top ten markets versus main last departure airports and main airlines to Sri Lanka January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      144.59,
+      526.13,
+      229.74
+    ],
+    "text": "As seen in the below tables, the main last departure airports and airlines for tourists visiting Sri Lanka vary by their top markets. Indian tourists prefer Sri Lankan Airlines and IndiGo, Russian tourists prefer Azur Air and Aeroflot, and Sri Lankan Airlines is the most popular for tourists from the United Kingdom, Australia, United States, Maldives, Germany, and Canada. The data indicates that tourists from Israel prefer Emirates and Dubai is the main last departure airport. This highlights the significance of destination accessibility in driving tourism.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      241.93,
+      475.55,
+      253.03
+    ],
+    "text": "Table 4. Top ten markets vs. main last departure airports to Sri Lanka, January 2023",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      483.76,
+      434.69,
+      534.11
+    ],
+    "text": "Table 5. Top ten markets vs. main airlines to Sri Lanka, January 2023",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      289.59,
+      49.25,
+      298.68
+    ],
+    "text": "Country",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91.67,
+      282.85,
+      100.6,
+      305.15
+    ],
+    "text": "Dubai",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      116.28,
+      278.47,
+      125.2,
+      310.15
+    ],
+    "text": "Chennai",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.85,
+      273.22,
+      149.78,
+      316.44
+    ],
+    "text": "Doha Qatar",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      164.83,
+      278.88,
+      173.75,
+      308.9
+    ],
+    "text": "London",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      188.79,
+      276.41,
+      197.72,
+      310.8
+    ],
+    "text": "Vnukovo",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      215.25,
+      276.63,
+      224.17,
+      310.8
+    ],
+    "text": "Moscow.",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      243.51,
+      268.3,
+      252.44,
+      320.21
+    ],
+    "text": "Domodedovo",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      268.12,
+      283.71,
+      277.04,
+      303.88
+    ],
+    "text": "Paris",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      289.02,
+      284.11,
+      297.94,
+      303.88
+    ],
+    "text": "Delhi",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      309.91,
+      274.14,
+      318.84,
+      314.56
+    ],
+    "text": "Abu Dhabi",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      330.81,
+      278.48,
+      339.73,
+      309.53
+    ],
+    "text": "Mumbai",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      349.26,
+      284.96,
+      358.18,
+      303.25
+    ],
+    "text": "Male",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      367.7,
+      274.37,
+      376.62,
+      314.56
+    ],
+    "text": "Singapore",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      388.6,
+      274.96,
+      397.52,
+      314.56
+    ],
+    "text": "Bangalore",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      407.04,
+      276.14,
+      415.96,
+      311.43
+    ],
+    "text": "Frankfurt",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      423.64,
+      266.99,
+      432.57,
+      322.09
+    ],
+    "text": "Kuala Lumpur",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      444.55,
+      275.81,
+      453.47,
+      311.43
+    ],
+    "text": "Colombo",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      467.9,
+      279.52,
+      476.82,
+      309.53
+    ],
+    "text": "Sharjah",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      489.41,
+      273.75,
+      498.34,
+      315.18
+    ],
+    "text": "Melbourne",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      508.47,
+      279.51,
+      517.39,
+      309.53
+    ],
+    "text": "Bahrain",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      528.75,
+      280.58,
+      537.67,
+      306.4
+    ],
+    "text": "Others",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      556.42,
+      284.72,
+      565.35,
+      303.88
+    ],
+    "text": "Total",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      327.2,
+      575.72,
+      336.36
+    ],
+    "text": "Russia4,09933747574,4734,0023,45212152 1,01212 156261218 4080 1,0594 9294,60925,254",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      340.39,
+      575.72,
+      349.54
+    ],
+    "text": "India4006,79093160003 1,87812 1,1904376 1,1330413561462,00513,759",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      353.57,
+      575.72,
+      362.73
+    ],
+    "text": "United Kingdom1,8622791,2363,545110187025295 131143843 167113336554618,483",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      366.76,
+      575.72,
+      375.91
+    ],
+    "text": "Germany1,6191512,2921093213006744192885560 980 1361,111146616298,217",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      379.94,
+      575.72,
+      389.1
+    ],
+    "text": "France1,43015359273210 1,36128190467228186866467486474,840",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      393.13,
+      575.72,
+      402.3
+    ],
+    "text": "Canada3663113989062006583945152355990 33474551121893,681",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      406.31,
+      575.72,
+      415.49
+    ],
+    "text": "Australia1321814748000241311643 1,033281 34187 1,06336433,668",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      419.52,
+      575.72,
+      428.67
+    ],
+    "text": "United States38017976715401088945070901674116836718323662,636",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      432.7,
+      575.72,
+      441.86
+    ],
+    "text": "Maldives679226000001112 97247805000313742,203",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.0,
+      445.89,
+      575.72,
+      455.04
+    ],
+    "text": "Israel1,0541191332110122542410171122060193181,868",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      6.840025901794434,
+      7.459967613220215,
+      8.079910278320312
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      574.99,
+      50.72,
+      584.28
+    ],
+    "text": "Country",
+    "fonts": [
+      "Arial,BoldItalic"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      101.35,
+      541.59,
+      110.66,
+      617.82
+    ],
+    "text": "Sri Lankan Airlines",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      127.62,
+      561.33,
+      136.92,
+      596.64
+    ],
+    "text": "Emirates",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      153.9,
+      562.73,
+      163.2,
+      595.37
+    ],
+    "text": "Azur Air",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      179.53,
+      552.41,
+      188.83,
+      607.56
+    ],
+    "text": "Qatar Airways",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      205.15,
+      563.83,
+      214.45,
+      595.37
+    ],
+    "text": "Aeroflot",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      235.27,
+      564.72,
+      244.57,
+      594.09
+    ],
+    "text": "Indi Go",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      265.39,
+      561.09,
+      274.69,
+      598.56
+    ],
+    "text": "Fly Dubai",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      289.74,
+      558.16,
+      299.04,
+      601.15
+    ],
+    "text": "Red Wings",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      312.16,
+      562.62,
+      321.46,
+      596.64
+    ],
+    "text": "Air India",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      334.57,
+      560.07,
+      343.87,
+      599.87
+    ],
+    "text": "Air Arabia",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      358.92,
+      549.87,
+      368.22,
+      609.48
+    ],
+    "text": "Etihad Airways",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      378.78,
+      564.0,
+      388.08,
+      594.73
+    ],
+    "text": "Gulf Air",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      401.22,
+      549.9,
+      410.52,
+      608.84
+    ],
+    "text": "Turkish Airline",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      425.57,
+      559.42,
+      434.87,
+      600.51
+    ],
+    "text": "Air France",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      453.11,
+      542.88,
+      462.41,
+      617.18
+    ],
+    "text": "Singapore Airlines",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      476.83,
+      563.24,
+      486.14,
+      594.73
+    ],
+    "text": "Air Asia",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      502.45,
+      560.81,
+      511.75,
+      598.56
+    ],
+    "text": "Oman Air",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      525.51,
+      568.44,
+      534.81,
+      590.23
+    ],
+    "text": "Other",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      565.24,
+      570.01,
+      574.54,
+      589.59
+    ],
+    "text": "Total",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      8.3381929397583
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      622.59,
+      576.19,
+      633.31
+    ],
+    "text": "Russia6.418.0831.371.80 15.850.937.38 12.100.354.210.98 3.681.560.030.061.181.532.5025,254",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      636.06,
+      576.19,
+      646.78
+    ],
+    "text": "India70.401.550.000.560.0017.720.370.016.800.410.05 0.040.040.010.200.130.081.6213,759",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      649.51,
+      576.19,
+      660.23
+    ],
+    "text": "United Kingdom53.9221.290.02 14.490.010.870.510.000.530.392.79 0.650.620.140.511.340.441.478,483",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      662.98,
+      576.19,
+      673.7
+    ],
+    "text": "Germany25.9818.940.05 27.740.020.900.880.010.490.173.31 0.741.610.820.231.331.16 15.648,217",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      676.45,
+      576.19,
+      687.17
+    ],
+    "text": "France27.6928.060.19 12.170.021.241.570.000.660.122.25 0.994.05 12.460.411.101.535.504,840",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      689.93,
+      576.19,
+      700.64
+    ],
+    "text": "Canada66.018.480.05 10.400.001.200.350.000.920.141.01 0.050.226.950.521.200.412.093,681",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      703.4,
+      576.19,
+      714.12
+    ],
+    "text": "Australia61.912.540.031.280.001.010.220.001.420.190.74 0.080.050.0319.904.170.306.133,668",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      716.85,
+      576.19,
+      727.57
+    ],
+    "text": "United States34.9812.970.04 27.430.043.071.290.191.590.681.37 0.082.432.204.442.010.304.892,636",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      730.32,
+      576.19,
+      741.04
+    ],
+    "text": "Maldives57.0624.380.000.270.000.056.080.000.090.000.05 0.051.320.000.050.540.149.942,203",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      19.2,
+      743.79,
+      576.19,
+      754.51
+    ],
+    "text": "Israel15.6942.610.110.700.053.5317.080.051.070.32 10.87 1.026.580.000.110.110.000.111,868",
+    "fonts": [
+      "Arial,Bold"
+    ],
+    "sizes": [
+      7.698434352874756,
+      8.3381929397583,
+      9.617711067199707
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      35.44,
+      299.17,
+      57.16
+    ],
+    "text": "Monthly Tourist Arrivals Report | January 2023",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      542.38,
+      31.6,
+      551.29,
+      40.57
+    ],
+    "text": "16",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      186.41,
+      666.79,
+      417.62,
+      679.1
+    ],
+    "text": "Research & International Relations Division",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      235.37,
+      686.35,
+      368.78,
+      698.66
+    ],
+    "text": "011 2426800 Ext. 151/155",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      235.25,
+      706.51,
+      368.6,
+      718.82
+    ],
+    "text": "research@srilanka.travel",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      247.49,
+      630.97,
+      356.59,
+      645.42
+    ],
+    "text": "www.sltda.gov.lk",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  }
+]
