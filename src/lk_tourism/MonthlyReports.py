@@ -1,15 +1,12 @@
-from typing import Generator
-
 from utils import Log, TimeFormat
 
-from scraper import AbstractPDFDoc
+from lk_tourism.WeeklyReports import WeeklyReports
 from utils_future import WWW
 
 log = Log("MonthlyReports")
 
 
-class MonthlyReports(AbstractPDFDoc):
-    URL_BASE = "https://www.sltda.gov.lk"
+class MonthlyReports(WeeklyReports):
 
     @classmethod
     def get_doc_class_label(cls):
@@ -22,10 +19,6 @@ class MonthlyReports(AbstractPDFDoc):
                 "Report on Monthly Tourist Arrivals to Sri Lanka.",  # noqa: E501
             ]
         )
-
-    @classmethod
-    def get_doc_class_emoji(cls) -> str:
-        return "🌴"
 
     @classmethod
     def gen_year_urls(cls):
@@ -65,7 +58,9 @@ class MonthlyReports(AbstractPDFDoc):
             month_text = cls.__hacky_fix_month_text__(month_text)
 
             date_str = TimeFormat.DATE.format(
-                TimeFormat("%Y %B").parse(year_text.strip() + " " + month_text)
+                TimeFormat("%Y %B").parse(
+                    year_text.strip() + " " + month_text
+                )
             )
             num = date_str
 
@@ -83,8 +78,3 @@ class MonthlyReports(AbstractPDFDoc):
                 lang="en",
                 url_pdf=url_pdf,
             )
-
-    @classmethod
-    def gen_docs(cls) -> Generator["MonthlyReports", None, None]:
-        for url_year in cls.gen_year_urls():
-            yield from cls.gen_docs_for_year(url_year)
