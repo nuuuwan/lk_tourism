@@ -1,14 +1,14 @@
 # 🌴#SriLanka 🇱🇰 Tourism Monthly Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_11:00:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_11:03:21-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports)
 
 Report on Monthly Tourist Arrivals to Sri Lanka.
 
-- [**32** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports) (**121.3 MB**), from **2023-01-01** to **2025-08-01**, scraped from [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
+- [**127** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports) (**217.9 MB**), from **2015-01-01** to **2025-08-01**, scraped from [https://sltda.gov.lk](https://sltda.gov.lk) & [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
 
-- In **JSON**, **PDF** (97%), **TXT** (97%) & **🤗 Hugging Face** (97%)
+- In **JSON**, **PDF** (50%), **TXT** (50%) & **🤗 Hugging Face** (50%)
 
 - In **English**
 
@@ -27,7 +27,7 @@ Report on Monthly Tourist Arrivals to Sri Lanka.
 }
 ```
 
-![Chart](https://raw.githubusercontent.com/nuuuwan/lk_tourism/refs/heads/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/docs_by_month_and_lang.png)
+![Chart](https://raw.githubusercontent.com/nuuuwan/lk_tourism/refs/heads/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/docs_by_year_and_lang.png)
 
 ## 🤗 Hugging Face Datasets
 
