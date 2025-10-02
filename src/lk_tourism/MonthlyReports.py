@@ -1,9 +1,11 @@
 from typing import Generator
 
-from utils import TimeFormat
+from utils import Log, TimeFormat
 
 from scraper import AbstractPDFDoc
 from utils_future import WWW
+
+log = Log("MonthlyReports")
 
 
 class MonthlyReports(AbstractPDFDoc):
@@ -31,12 +33,19 @@ class MonthlyReports(AbstractPDFDoc):
         www = WWW(url_years)
         soup = www.soup
         assert soup, f"[{www}] Failed to get soup."
-        div = soup.find("div", class_="downloads-table")
-        assert div, f"[{www}] Failed to find div.downloads-table"
+        div = soup.find("div", class_="register-back-wrap")
+        assert div, f"[{www}] Failed to find div.register-back-wrap"
         a_list = div.find_all("a")
         for a in a_list:
             url_for_year = a.get("href")
             yield url_for_year
+
+    @classmethod
+    def __hacky_fix_month_text__(cls, month_text):
+        month_text = month_text.strip().title()
+        for before, after in [["Febuary", "February"]]:
+            month_text = month_text.replace(before, after)
+        return month_text
 
     @classmethod
     def gen_docs_for_year(cls, url_year):
@@ -49,20 +58,22 @@ class MonthlyReports(AbstractPDFDoc):
             div_text = div_item.find("div", class_="register-item-text")
             assert div_text, f"[{www}] No div.register-item-text found."
             description = div_text.get_text().strip()
-            _, year_text, month_text = description.split("-")
+            log.debug(f"{description=}")
+            month_text, year_text = [
+                token for token in description.split(" ") if token
+            ][-2:]
+            month_text = cls.__hacky_fix_month_text__(month_text)
+
             date_str = TimeFormat.DATE.format(
-                TimeFormat("%Y %B").parse(
-                    year_text.strip() + " " + month_text.strip().title()
-                )
+                TimeFormat("%Y %B").parse(year_text.strip() + " " + month_text)
             )
             num = date_str
 
             a = div_item.find("a")
             assert a, f"[{www}] No <a> found in div.register-item-back"
             url_pdf = a.get("href")
-            assert url_pdf.endswith(
-                ".pdf"
-            ), f"Unexpected non-PDF href: {url_pdf}"
+            if not url_pdf.endswith(".pdf"):
+                continue
 
             yield MonthlyReports(
                 num=num,

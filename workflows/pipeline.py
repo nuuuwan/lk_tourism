@@ -1,4 +1,4 @@
-from lk_tourism import WeeklyReports
+from lk_tourism import MonthlyReports
 
 if __name__ == "__main__":
-    WeeklyReports.run_pipeline()
+    MonthlyReports.run_pipeline()
