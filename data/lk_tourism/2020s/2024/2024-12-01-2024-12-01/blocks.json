@@ -1,0 +1,3606 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      77.18,
+      32.51,
+      358.4,
+      43.61
+    ],
+    "text": "Sri Lanka Tourism Development Authority - Weekly Report",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.18,
+      32.51,
+      358.4,
+      43.61
+    ],
+    "text": "Sri Lanka Tourism Development Authority - Weekly Report",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      72.79,
+      289.88,
+      97.27
+    ],
+    "text": "SUMMARY REPORT",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      21.959999084472656
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      107.7,
+      431.05,
+      125.65
+    ],
+    "text": "Tourist arrivals from 01st to 31st December 2024",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      10.5600004196167,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.82,
+      150.92,
+      515.84,
+      164.3
+    ],
+    "text": "2018 2023 2024",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.82,
+      197.0,
+      122.16,
+      210.38
+    ],
+    "text": "Month",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.89,
+      177.2,
+      232.59,
+      190.58
+    ],
+    "text": "Number",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.25,
+      197.0,
+      220.59,
+      210.38
+    ],
+    "text": "of",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.81,
+      216.8,
+      233.55,
+      230.18
+    ],
+    "text": "Tourists",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.05,
+      177.2,
+      334.13,
+      190.58
+    ],
+    "text": "Number",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      299.11,
+      197.0,
+      317.09,
+      210.38
+    ],
+    "text": "of",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280.97,
+      216.8,
+      331.73,
+      230.18
+    ],
+    "text": "Tourists",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      383.95,
+      177.2,
+      432.68,
+      190.58
+    ],
+    "text": "Number",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      399.31,
+      197.0,
+      420.65,
+      210.38
+    ],
+    "text": "of",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      382.87,
+      216.8,
+      433.64,
+      230.18
+    ],
+    "text": "Tourists",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      480.1,
+      177.2,
+      548.18,
+      190.58
+    ],
+    "text": "Percentage",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      490.42,
+      191.0,
+      537.8,
+      204.38
+    ],
+    "text": "Change",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      491.74,
+      210.8,
+      536.48,
+      224.18
+    ],
+    "text": "(24/23)",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      243.23,
+      530.84,
+      256.61
+    ],
+    "text": "January 238,924 102,545 208,253 103.1",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      269.51,
+      530.84,
+      282.89
+    ],
+    "text": "February 235,618 107,639 218,350 102.8",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      295.79,
+      527.48,
+      309.17
+    ],
+    "text": "March 233,382 125,495 209,181 66.7",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      322.07,
+      527.48,
+      335.45
+    ],
+    "text": "April 180,429 105,498 148,867 41.1",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      348.35,
+      527.48,
+      361.73
+    ],
+    "text": "May 129,466 83,309 112,128 34.6",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      374.63,
+      527.48,
+      388.01
+    ],
+    "text": "June 146,828 100,388 113,470 13.0",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      400.93,
+      527.48,
+      414.31
+    ],
+    "text": "July 217,829 143,039 187,810 31.3",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      427.33,
+      527.48,
+      440.71
+    ],
+    "text": "August 200,359 136,405 164,609 20.7",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      453.61,
+      527.48,
+      466.99
+    ],
+    "text": "September 149,087 111,938 122,140 9.11",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      479.89,
+      530.84,
+      493.27
+    ],
+    "text": "October 153,123 109,199 135,907 24.45",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      506.17,
+      530.84,
+      519.55
+    ],
+    "text": "November 195,582 151,496 184,158 21.56",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      532.45,
+      530.84,
+      545.83
+    ],
+    "text": "December 253,169 210,352 248,592 18.18",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.56,
+      558.4,
+      541.42,
+      579.34
+    ],
+    "text": "TOTAL 2,333,796 1,487,303 2,053,465 38.07",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.83,
+      646.08,
+      498.22,
+      664.52
+    ],
+    "text": "Tourist arrivals",
+    "fonts": [
+      "Arial-Black"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      323.83,
+      667.44,
+      529.54,
+      685.88
+    ],
+    "text": "01st to 31st December 2024",
+    "fonts": [
+      "Arial-Black"
+    ],
+    "sizes": [
+      8.520000457763672,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      365.35,
+      691.72,
+      486.07,
+      726.24
+    ],
+    "text": "248,592",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      30.959999084472656
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.18,
+      32.51,
+      358.4,
+      43.61
+    ],
+    "text": "Sri Lanka Tourism Development Authority - Weekly Report",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      72.42,
+      436.88,
+      90.37
+    ],
+    "text": "Daily tourist arrivals, 01st to 31st December 2024",
+    "fonts": [
+      "Arial-BoldMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5600004196167,
+      12.0,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      232.85,
+      245.81,
+      353.16,
+      273.08
+    ],
+    "text": "December",
+    "fonts": [
+      "LucidaCalligraphy-Italic"
+    ],
+    "sizes": [
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.9,
+      313.34,
+      95.88,
+      340.25
+    ],
+    "text": "1 6,415",
+    "fonts": [
+      "Calibri",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      493.42,
+      304.91,
+      541.93,
+      317.49
+    ],
+    "text": "1st to 07th",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      495.22,
+      318.66,
+      541.96,
+      334.32
+    ],
+    "text": "41,191",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      493.9,
+      256.07,
+      536.92,
+      274.93
+    ],
+    "text": "Total",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      17.040000915527344
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.7,
+      314.3,
+      155.55,
+      340.54
+    ],
+    "text": "2 7,164",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189.29,
+      312.02,
+      217.14,
+      339.58
+    ],
+    "text": "3 4,703",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      248.69,
+      312.38,
+      276.54,
+      338.62
+    ],
+    "text": "4 5,676",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      308.59,
+      305.3,
+      336.44,
+      338.98
+    ],
+    "text": "5 5,258",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      369.19,
+      310.34,
+      397.04,
+      339.1
+    ],
+    "text": "6 6,058",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      431.14,
+      312.15,
+      458.99,
+      339.58
+    ],
+    "text": "7 5,917",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.86,
+      364.71,
+      97.71,
+      399.58
+    ],
+    "text": "8 5,984",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132.98,
+      366.15,
+      160.83,
+      401.14
+    ],
+    "text": "9 6,119",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189.41,
+      365.07,
+      217.26,
+      399.94
+    ],
+    "text": "10 5,507",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      244.01,
+      375.76,
+      270.18,
+      386.86
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      251.57,
+      390.64,
+      279.42,
+      401.74
+    ],
+    "text": "9,847",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      263.69,
+      402.86,
+      264.8,
+      403.93
+    ],
+    "text": "6,",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      314.23,
+      362.91,
+      328.16,
+      384.22
+    ],
+    "text": "12",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      307.27,
+      384.26,
+      335.12,
+      399.1
+    ],
+    "text": "6,222",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      375.43,
+      367.23,
+      389.36,
+      388.54
+    ],
+    "text": "13",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      368.47,
+      389.54,
+      396.32,
+      403.42
+    ],
+    "text": "7,584",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      437.5,
+      363.99,
+      448.93,
+      386.5
+    ],
+    "text": "14",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      430.54,
+      387.5,
+      458.39,
+      402.58
+    ],
+    "text": "6,863",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.18,
+      427.25,
+      99.03,
+      462.24
+    ],
+    "text": "15 7,798",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.94,
+      426.05,
+      161.79,
+      460.92
+    ],
+    "text": "16 8,425",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189.29,
+      425.33,
+      217.14,
+      460.2
+    ],
+    "text": "17 7,135",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      251.21,
+      425.33,
+      279.06,
+      459.0
+    ],
+    "text": "18 7,852",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      492.22,
+      429.21,
+      546.97,
+      440.64
+    ],
+    "text": "15th to 21st",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      496.42,
+      445.52,
+      547.02,
+      461.18
+    ],
+    "text": "61,246",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      308.59,
+      424.97,
+      336.44,
+      462.48
+    ],
+    "text": "19 8,653",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      370.27,
+      425.81,
+      403.64,
+      461.88
+    ],
+    "text": "20 10,649",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      431.14,
+      438.9,
+      464.51,
+      462.48
+    ],
+    "text": "21 10,734",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.22,
+      491.81,
+      100.59,
+      526.8
+    ],
+    "text": "22 10,820",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.22,
+      498.04,
+      163.59,
+      526.8
+    ],
+    "text": "23 11,284",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193.01,
+      491.81,
+      220.86,
+      528.0
+    ],
+    "text": "24 9,420",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      251.57,
+      491.8,
+      279.42,
+      526.8
+    ],
+    "text": "25 9,378",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      305.83,
+      502.96,
+      339.2,
+      528.0
+    ],
+    "text": "26 10,493",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      366.55,
+      491.45,
+      399.92,
+      528.84
+    ],
+    "text": "27 11,232",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      381.31,
+      529.96,
+      382.66,
+      532.23
+    ],
+    "text": "33",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      430.3,
+      491.09,
+      463.67,
+      528.48
+    ],
+    "text": "28 10,050",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.14,
+      565.13,
+      90.99,
+      590.19
+    ],
+    "text": "29 9,847",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      493.66,
+      553.31,
+      546.84,
+      565.85
+    ],
+    "text": "29th to 31st",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      497.5,
+      570.16,
+      537.56,
+      583.54
+    ],
+    "text": "25,352",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.9,
+      553.25,
+      159.75,
+      589.47
+    ],
+    "text": "30 8,900",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      488.14,
+      495.81,
+      544.93,
+      507.24
+    ],
+    "text": "22nd to 28th",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      493.78,
+      508.52,
+      540.52,
+      524.18
+    ],
+    "text": "72,677",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      489.94,
+      367.55,
+      541.93,
+      380.13
+    ],
+    "text": "8th to 14th",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      491.86,
+      381.42,
+      538.6,
+      397.08
+    ],
+    "text": "48,126",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188.21,
+      553.25,
+      216.06,
+      588.27
+    ],
+    "text": "31 6,605",
+    "fonts": [
+      "Helvetica,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.18,
+      32.51,
+      358.4,
+      43.61
+    ],
+    "text": "Sri Lanka Tourism Development Authority - Weekly Report",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.02,
+      72.08,
+      520.27,
+      89.33
+    ],
+    "text": "Daily distribution of tourist arrivals, 01st to 31st December 2024",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.479999542236328,
+      15.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      401.9,
+      557.85,
+      428.38
+    ],
+    "text": "Number of tourist arrivals, 2022, 2023 & 2024 (01st to 31st December)",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      9.479999542236328,
+      15.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77.18,
+      32.51,
+      358.4,
+      43.61
+    ],
+    "text": "Sri Lanka Tourism Development Authority - Weekly Report",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      72.58,
+      439.42,
+      90.37
+    ],
+    "text": "Daily trend of tourist arrivals, 2022, 2023 & 2024",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      434.79,
+      517.54,
+      452.58
+    ],
+    "text": "Weekly distribution of tourist arrivals, 2022, 2023 & 2024",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.18,
+      32.51,
+      358.4,
+      43.61
+    ],
+    "text": "Sri Lanka Tourism Development Authority - Weekly Report",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      72.42,
+      464.5,
+      90.37
+    ],
+    "text": "Top ten source markets, 01st to 31st December 2024",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      10.5600004196167,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      81.26,
+      111.69,
+      114.0,
+      135.74
+    ],
+    "text": "Rank",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      2.0399999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      226.61,
+      111.69,
+      275.91,
+      135.74
+    ],
+    "text": "Country",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      2.0399999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      337.51,
+      101.72,
+      400.85,
+      131.18
+    ],
+    "text": "Number of",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      343.75,
+      131.6,
+      394.49,
+      144.98
+    ],
+    "text": "Tourists",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      436.66,
+      112.04,
+      487.4,
+      139.22
+    ],
+    "text": "Share %",
+    "fonts": [
+      "Arial-BoldMT",
+      "ArialMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      149.6,
+      102.6,
+      176.78
+    ],
+    "text": "1",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      149.6,
+      215.91,
+      176.78
+    ],
+    "text": "India",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      349.15,
+      149.6,
+      389.21,
+      178.82
+    ],
+    "text": "52,881",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      443.26,
+      149.6,
+      480.68,
+      176.78
+    ],
+    "text": "21.3%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      194.24,
+      102.6,
+      221.42
+    ],
+    "text": "2",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.06,
+      194.24,
+      290.55,
+      221.42
+    ],
+    "text": "Russian Federation",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      349.15,
+      194.24,
+      389.21,
+      223.58
+    ],
+    "text": "35,268",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      443.26,
+      194.24,
+      480.68,
+      221.42
+    ],
+    "text": "14.2%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      240.23,
+      102.6,
+      267.41
+    ],
+    "text": "3",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      253.7,
+      275.19,
+      270.89
+    ],
+    "text": "United Kingdom",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      349.15,
+      256.07,
+      389.21,
+      269.45
+    ],
+    "text": "18,757",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      446.62,
+      240.23,
+      477.32,
+      267.41
+    ],
+    "text": "7.5%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      291.35,
+      102.6,
+      318.53
+    ],
+    "text": "4",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.06,
+      291.35,
+      239.19,
+      318.53
+    ],
+    "text": "Germany",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      349.15,
+      291.35,
+      389.21,
+      320.57
+    ],
+    "text": "14,703",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      446.62,
+      291.35,
+      477.32,
+      318.53
+    ],
+    "text": "5.9%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      339.14,
+      102.6,
+      367.85
+    ],
+    "text": "5",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      352.94,
+      233.19,
+      367.85
+    ],
+    "text": "Australia",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      349.15,
+      339.47,
+      389.21,
+      368.81
+    ],
+    "text": "13,109",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      446.62,
+      339.47,
+      477.32,
+      366.65
+    ],
+    "text": "5.3%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      390.47,
+      102.6,
+      417.67
+    ],
+    "text": "6",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      403.82,
+      217.83,
+      421.03
+    ],
+    "text": "China",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      352.51,
+      390.47,
+      385.85,
+      419.71
+    ],
+    "text": "9,924",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      446.62,
+      390.47,
+      477.32,
+      417.67
+    ],
+    "text": "4.0%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      437.83,
+      102.6,
+      462.91
+    ],
+    "text": "7",
+    "fonts": [
+      "Arial-BoldMT",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.73,
+      451.09,
+      263.43,
+      464.47
+    ],
+    "text": "United States",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      352.51,
+      435.76,
+      385.85,
+      460.03
+    ],
+    "text": "8,212",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      444.94,
+      436.09,
+      479.0,
+      463.27
+    ],
+    "text": "3.3%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      482.53,
+      102.6,
+      509.71
+    ],
+    "text": "8",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      496.0,
+      233.91,
+      511.99
+    ],
+    "text": "Maldives",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      352.51,
+      482.53,
+      385.85,
+      511.75
+    ],
+    "text": "6,903",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      446.62,
+      482.53,
+      477.32,
+      509.71
+    ],
+    "text": "2.8%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.54,
+      530.41,
+      102.6,
+      557.59
+    ],
+    "text": "9",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      546.49,
+      225.27,
+      562.39
+    ],
+    "text": "France",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      352.51,
+      530.41,
+      385.85,
+      559.75
+    ],
+    "text": "6,332",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      446.62,
+      530.41,
+      477.32,
+      557.59
+    ],
+    "text": "2.5%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.3,
+      583.84,
+      105.96,
+      611.02
+    ],
+    "text": "10",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      597.19,
+      223.83,
+      615.58
+    ],
+    "text": "Poland",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      352.51,
+      583.84,
+      385.85,
+      613.06
+    ],
+    "text": "6,233",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      446.62,
+      583.84,
+      477.32,
+      611.02
+    ],
+    "text": "2.5%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.3,
+      631.6,
+      105.96,
+      658.78
+    ],
+    "text": "11",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      631.15,
+      216.51,
+      654.1
+    ],
+    "text": "Other",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      349.15,
+      637.75,
+      389.21,
+      653.14
+    ],
+    "text": "11,510 76,270",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      443.26,
+      631.15,
+      480.68,
+      648.46
+    ],
+    "text": "30.7%",
+    "fonts": [
+      "ArialMT",
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.17,
+      663.43,
+      225.89,
+      690.93
+    ],
+    "text": "Total",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      345.79,
+      663.43,
+      423.46,
+      689.02
+    ],
+    "text": "248,592",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.18,
+      32.51,
+      358.4,
+      43.61
+    ],
+    "text": "Sri Lanka Tourism Development Authority - Weekly Report",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      72.42,
+      555.6,
+      90.37
+    ],
+    "text": "Top twenty source markets, 01st January to 31st December 2024",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      10.5600004196167,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.58,
+      107.39,
+      129.14,
+      134.89
+    ],
+    "text": "Rank",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      96.1,
+      209.45,
+      135.97
+    ],
+    "text": "Country",
+    "fonts": [
+      "Helvetica",
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      358.15,
+      107.39,
+      510.22,
+      133.69
+    ],
+    "text": "Number of Tourists",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      154.55,
+      111.33,
+      171.66
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      158.03,
+      170.61,
+      172.26
+    ],
+    "text": "India",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      412.03,
+      154.55,
+      454.85,
+      171.66
+    ],
+    "text": "416,974",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      178.67,
+      111.33,
+      195.9
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      183.83,
+      242.16,
+      198.18
+    ],
+    "text": "Russian Federation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      412.03,
+      178.67,
+      454.85,
+      195.9
+    ],
+    "text": "201,920",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      204.59,
+      111.33,
+      220.62
+    ],
+    "text": "3",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      208.07,
+      225.0,
+      222.3
+    ],
+    "text": "United Kingdom",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      412.03,
+      204.59,
+      454.85,
+      221.7
+    ],
+    "text": "178,339",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      228.71,
+      111.33,
+      244.74
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      230.51,
+      195.0,
+      244.74
+    ],
+    "text": "Germany",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      412.03,
+      228.71,
+      454.85,
+      244.74
+    ],
+    "text": "113,687 136,084",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      251.66,
+      111.33,
+      268.89
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      253.46,
+      175.53,
+      267.81
+    ],
+    "text": "China",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      412.03,
+      251.66,
+      454.85,
+      267.81
+    ],
+    "text": "90,517 131,681",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      274.7,
+      111.33,
+      291.93
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      276.5,
+      189.6,
+      290.73
+    ],
+    "text": "Australia",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      274.7,
+      451.85,
+      289.65
+    ],
+    "text": "89,573",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      297.74,
+      111.33,
+      314.85
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      299.54,
+      180.96,
+      313.77
+    ],
+    "text": "France",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      297.74,
+      451.85,
+      312.57
+    ],
+    "text": "88,772",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      320.66,
+      111.33,
+      337.89
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      322.46,
+      212.76,
+      336.81
+    ],
+    "text": "United States",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      320.66,
+      451.85,
+      336.81
+    ],
+    "text": "59,532",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      102.14,
+      343.7,
+      111.33,
+      359.73
+    ],
+    "text": "9",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      348.98,
+      206.04,
+      363.21
+    ],
+    "text": "Netherlands",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      343.7,
+      451.85,
+      360.93
+    ],
+    "text": "50,116",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      369.62,
+      114.33,
+      386.73
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      373.1,
+      190.2,
+      387.33
+    ],
+    "text": "Maldives",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      369.62,
+      451.85,
+      385.65
+    ],
+    "text": "47,222",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      393.74,
+      114.33,
+      410.97
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      397.22,
+      180.96,
+      411.45
+    ],
+    "text": "Poland",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      393.74,
+      451.85,
+      410.97
+    ],
+    "text": "44,165",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      417.88,
+      114.33,
+      435.11
+    ],
+    "text": "12",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      423.16,
+      185.28,
+      437.39
+    ],
+    "text": "Canada",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      417.88,
+      451.85,
+      433.91
+    ],
+    "text": "31,024 42,212",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      443.8,
+      114.33,
+      461.03
+    ],
+    "text": "13",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      447.28,
+      204.84,
+      461.51
+    ],
+    "text": "Bangladesh",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      443.8,
+      451.85,
+      459.83
+    ],
+    "text": "39,555",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      467.92,
+      114.33,
+      485.15
+    ],
+    "text": "14",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      471.4,
+      166.89,
+      485.75
+    ],
+    "text": "Italy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      467.92,
+      451.85,
+      483.95
+    ],
+    "text": "38,709",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      492.04,
+      114.33,
+      509.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      495.52,
+      174.81,
+      509.87
+    ],
+    "text": "Spain",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      492.04,
+      451.85,
+      508.07
+    ],
+    "text": "37,928",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      516.16,
+      114.33,
+      533.39
+    ],
+    "text": "16",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      517.96,
+      176.73,
+      532.31
+    ],
+    "text": "Japan",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      516.16,
+      451.85,
+      532.31
+    ],
+    "text": "30,429",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      539.2,
+      114.33,
+      557.51
+    ],
+    "text": "17",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      541.0,
+      203.64,
+      555.23
+    ],
+    "text": "Switzerland",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      539.2,
+      451.85,
+      556.43
+    ],
+    "text": "29,829",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      562.24,
+      114.33,
+      579.5
+    ],
+    "text": "18",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      565.72,
+      173.61,
+      579.98
+    ],
+    "text": "Israel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      562.24,
+      451.85,
+      579.5
+    ],
+    "text": "24,845",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      586.39,
+      114.33,
+      603.62
+    ],
+    "text": "19",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      589.87,
+      239.04,
+      604.22
+    ],
+    "text": "Czech Republic",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      586.39,
+      451.85,
+      602.42
+    ],
+    "text": "19,279",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      610.51,
+      114.33,
+      628.94
+    ],
+    "text": "20",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      612.31,
+      190.2,
+      626.54
+    ],
+    "text": "Malaysia",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      415.15,
+      610.51,
+      451.85,
+      627.74
+    ],
+    "text": "18,259",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      633.55,
+      179.73,
+      647.9
+    ],
+    "text": "Others",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      412.03,
+      633.55,
+      454.85,
+      649.58
+    ],
+    "text": "328,042",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.66,
+      660.07,
+      194.27,
+      677.69
+    ],
+    "text": "TOTAL",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      400.75,
+      656.59,
+      466.96,
+      677.09
+    ],
+    "text": "2,053,465",
+    "fonts": [
+      "Helvetica,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      14.039999961853027
+    ]
+  }
+]
