@@ -6,7 +6,7 @@ from scraper import AbstractPDFDoc
 from utils_future import WWW
 
 
-class WeeklyReports(AbstractPDFDoc):
+class MonthlyReports(AbstractPDFDoc):
     URL_BASE = "https://www.sltda.gov.lk"
 
     @classmethod
@@ -64,7 +64,7 @@ class WeeklyReports(AbstractPDFDoc):
                 ".pdf"
             ), f"Unexpected non-PDF href: {url_pdf}"
 
-            yield WeeklyReports(
+            yield MonthlyReports(
                 num=num,
                 date_str=date_str,
                 url_metadata=url_year,
@@ -74,6 +74,6 @@ class WeeklyReports(AbstractPDFDoc):
             )
 
     @classmethod
-    def gen_docs(cls) -> Generator["WeeklyReports", None, None]:
+    def gen_docs(cls) -> Generator["MonthlyReports", None, None]:
         for url_year in cls.gen_year_urls():
             yield from cls.gen_docs_for_year(url_year)
