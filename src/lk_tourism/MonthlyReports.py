@@ -12,7 +12,7 @@ class MonthlyReports(AbstractPDFDoc):
     URL_BASE = "https://www.sltda.gov.lk"
 
     @classmethod
-    def doc_class_label(cls):
+    def get_doc_class_label(cls):
         return "lk_tourism_monthly_reports"
 
     @classmethod
