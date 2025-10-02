@@ -1,0 +1,3535 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      745.89,
+      79.31,
+      755.85
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      744.72,
+      80.16,
+      755.88
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      75.17,
+      148.59,
+      91.13
+    ],
+    "text": "SUMMARY",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      102.59,
+      542.59,
+      123.98
+    ],
+    "text": "The total number of international tourist arrivals to Sri Lanka during March 2019 was 244,328. In",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      133.1,
+      487.52,
+      144.14
+    ],
+    "text": "comparison to March last year, there was a growth of 4.7% when the arrivals were 233,382.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      153.14,
+      540.68,
+      164.18
+    ],
+    "text": "This month, the largest source market for tourists was India, followed by the United Kingdom and China.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      173.3,
+      307.11,
+      184.34
+    ],
+    "text": "Almost 93 % of tourists travelled by air to Sri Lanka.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.1,
+      237.41,
+      228.87,
+      248.45
+    ],
+    "text": "Month 2018 2019",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.78,
+      210.62,
+      297.27,
+      427.87
+    ],
+    "text": "% change 2018/2019 January 238,924 244,239 2.2 February 235,618 252,033 7.0 March 233,382 244,328 4.7 April 180,429 May 129,466 June 146,828 July 217,829 August 200,359 September 149,087 October 153,123 November 195,582 December 253,169",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.78,
+      433.99,
+      475.47,
+      504.46
+    ],
+    "text": "Total 2,333,796 Up to March 707,924 740,600 4.6 TOURIST ARRIVALS BY REGION",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      403.7,
+      543.14,
+      437.98,
+      552.05
+    ],
+    "text": "Americas",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.939901351928711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415.31,
+      551.3,
+      463.55,
+      562.97
+    ],
+    "text": "8%Africa",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.939901351928711,
+      8.963741302490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      447.2,
+      562.21,
+      458.33,
+      571.13
+    ],
+    "text": "1%",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.963741302490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      411.93,
+      620.77,
+      439.27,
+      640.6
+    ],
+    "text": "Asia & Paciffic",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.939901351928711,
+      8.963741302490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417.44,
+      642.64,
+      433.08,
+      651.54
+    ],
+    "text": "40%",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.939901351928711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.87,
+      595.56,
+      378.35,
+      604.46
+    ],
+    "text": "Europe",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.939901351928711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      357.38,
+      606.46,
+      373.04,
+      615.39
+    ],
+    "text": "49%",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.963741302490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      334.69,
+      543.14,
+      378.65,
+      552.05
+    ],
+    "text": "Middle East",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.939901351928711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.23,
+      554.05,
+      362.34,
+      562.97
+    ],
+    "text": "2%",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.963741302490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      369.22,
+      349.53,
+      373.78,
+      358.53
+    ],
+    "text": "0",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.99997329711914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.65,
+      332.73,
+      373.74,
+      341.73
+    ],
+    "text": "50,000",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.99997329711914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      344.09,
+      315.9,
+      373.74,
+      324.9
+    ],
+    "text": "100,000",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.99997329711914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      344.09,
+      299.1,
+      373.74,
+      308.1
+    ],
+    "text": "150,000",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.99997329711914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      344.09,
+      282.28,
+      373.74,
+      291.28
+    ],
+    "text": "200,000",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.99997329711914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      344.09,
+      265.48,
+      373.74,
+      274.48
+    ],
+    "text": "250,000",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.99997329711914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      344.09,
+      248.66,
+      373.74,
+      257.66
+    ],
+    "text": "300,000",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.99997329711914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      330.87,
+      270.6,
+      340.85,
+      333.93
+    ],
+    "text": "Tourist Arrivals",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.983970642089844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      467.88,
+      402.81,
+      497.84,
+      412.77
+    ],
+    "text": "Month",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.959970474243164
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      343.97,
+      420.51,
+      388.3,
+      428.79
+    ],
+    "text": "20182019",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.279974937438965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.06,
+      520.87,
+      253.23,
+      575.38
+    ],
+    "text": "Europe became the largest source of tourist traffic to Sri Lanka with 49% of the total traffic received in March 2019.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.06,
+      586.9,
+      253.21,
+      626.86
+    ],
+    "text": "Asia and Pacific accounted for 40% of the total traffic, America 8%, Middle East 2% and Africa 1%.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      744.72,
+      80.16,
+      755.88
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      75.17,
+      542.55,
+      187.58
+    ],
+    "text": "TOP TEN SOURCE MARKETS India, United Kingdom, China, Germany and France were Sri Lanka\u2019s top five international tourist generating markets in the month of March this year. India was the largest source of tourist traffic to Sri Lanka with 14% of the total traffic received in March 2019. UK accounted for 12% of the total traffic; while China, Germany and France accounted for 10%, 7% and 6% respectively.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.78,
+      511.27,
+      356.45,
+      535.99
+    ],
+    "text": "Rank Country of Residence Tourist Arrivals",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      292.01,
+      524.71,
+      348.77,
+      535.75
+    ],
+    "text": "March 2019",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      420.55,
+      504.67,
+      477.32,
+      556.06
+    ],
+    "text": "Tourist Arrivals March 2018",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      504.34,
+      504.67,
+      551.12,
+      515.71
+    ],
+    "text": "% Change",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      518.11,
+      553.64,
+      571.9
+    ],
+    "text": "March 2019/2018 By Air By Sea Total 1 INDIA 34,248 564 34,812 30,583 5.6",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      574.78,
+      536.0,
+      587.38
+    ],
+    "text": "2 GREAT BRITAIN (UK) 25,755 3,927 29,682 30,366 8.8",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      590.26,
+      541.28,
+      602.98
+    ],
+    "text": "3 CHINA 23,576 183 23,759 21,101 12.6",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      605.86,
+      542.24,
+      618.46
+    ],
+    "text": "4 GERMANY 17,548 586 18,134 24,423 (25.8)",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      621.34,
+      539.48,
+      633.94
+    ],
+    "text": "5 FRANCE 13,287 670 13,957 14,818 (5.8)",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      636.82,
+      538.88,
+      649.42
+    ],
+    "text": "6 RUSSIAN FEDERATION 12,448 257 12,705 9,089 39.8",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      652.3,
+      538.88,
+      664.9
+    ],
+    "text": "7 UNITED STATES 9,264 3,279 12,543 9,701 29.3",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      667.78,
+      541.28,
+      680.38
+    ],
+    "text": "8 AUSTRALIA 9,600 1,841 11,441 8,932 28.1",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.9,
+      683.28,
+      538.52,
+      696.0
+    ],
+    "text": "9 MALDIVES 7,801 1 7802 7,239 7.8",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.02,
+      698.88,
+      538.88,
+      712.2
+    ],
+    "text": "10 CANADA 5,166 845 6,011 5,113 17.6",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      744.72,
+      80.16,
+      755.88
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      75.17,
+      504.95,
+      110.69
+    ],
+    "text": "INTERNATIONAL TOURIST ARRIVALS BY COUNTRY OF RESIDENCE",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      228.29,
+      128.06,
+      285.03,
+      139.1
+    ],
+    "text": "March 2019",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.5,
+      142.94,
+      292.59,
+      167.42
+    ],
+    "text": "Tourist Arrivals",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      346.51,
+      142.94,
+      406.91,
+      153.98
+    ],
+    "text": "Total Tourist",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      348.31,
+      156.38,
+      405.05,
+      180.86
+    ],
+    "text": "Arrivals March 2018",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      418.03,
+      143.78,
+      474.84,
+      154.82
+    ],
+    "text": "% Change",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      426.31,
+      157.1,
+      474.99,
+      181.58
+    ],
+    "text": "March (2019 /",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      429.91,
+      183.08,
+      459.71,
+      195.02
+    ],
+    "text": "2018)",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      480.46,
+      142.94,
+      544.51,
+      167.42
+    ],
+    "text": "Total Tourist Arrivals up to",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      169.82,
+      545.24,
+      212.06
+    ],
+    "text": "March 2019 By Air By Sea Total AMERICAS 15,361 4,321 19,682 16,006 23.0 51,581",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      215.78,
+      545.24,
+      228.5
+    ],
+    "text": "North America 14,602 4,195 18,797 14,994 25.4 48,910",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      232.37,
+      545.24,
+      244.49
+    ],
+    "text": "Canada 5,166 845 6,011 5,113 17.6 18,320",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      248.33,
+      545.24,
+      260.93
+    ],
+    "text": "Mexico 172 71 243 180 35.0 520",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      264.89,
+      545.24,
+      277.49
+    ],
+    "text": "United States 9,264 3,279 12,543 9,701 29.3 30,070",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      302.57,
+      160.65,
+      327.05
+    ],
+    "text": "Caribbean & Central America",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207.17,
+      309.29,
+      336.77,
+      320.33
+    ],
+    "text": "129 14 143",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      393.79,
+      297.17,
+      408.62,
+      323.81
+    ],
+    "text": "94",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      432.1,
+      297.17,
+      456.29,
+      323.81
+    ],
+    "text": "52.1",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      524.5,
+      297.17,
+      545.45,
+      323.69
+    ],
+    "text": "329",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      336.77,
+      545.24,
+      349.61
+    ],
+    "text": "Costa Rica 12 1 13 14 (7.1) 55",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      355.25,
+      545.24,
+      367.01
+    ],
+    "text": "Jamaica 12 2 14 22 (36.4) 23",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      371.69,
+      545.24,
+      383.57
+    ],
+    "text": "Others 105 11 116 58 100.0 251",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      388.27,
+      545.24,
+      415.75
+    ],
+    "text": "South America 630 112 742 918 (19.2) 2,342",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      419.71,
+      545.24,
+      431.71
+    ],
+    "text": "Argentina 151 39 190 271 (29.9) 540",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      435.67,
+      545.24,
+      447.79
+    ],
+    "text": "Brazil 256 54 310 357 (13.2) 873",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      451.63,
+      545.24,
+      464.23
+    ],
+    "text": "Chile 72 13 85 109 (22.0) 421",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      468.19,
+      545.24,
+      480.79
+    ],
+    "text": "Colombia 65 2 67 72 (6.9) 223",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      484.63,
+      545.24,
+      497.23
+    ],
+    "text": "Others 86 4 90 109 (17.4) 285",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      516.91,
+      108.33,
+      528.91
+    ],
+    "text": "AFRICA",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196.37,
+      516.91,
+      336.98,
+      528.91
+    ],
+    "text": "1,501 185 1,688",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      378.43,
+      516.91,
+      408.62,
+      528.91
+    ],
+    "text": "1,413",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      430.66,
+      502.27,
+      473.87,
+      528.91
+    ],
+    "text": "19.5",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      515.26,
+      502.27,
+      545.45,
+      528.91
+    ],
+    "text": "4,696",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      532.78,
+      545.24,
+      545.38
+    ],
+    "text": "North Africa 347 2 349 283 23.3 896",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      549.22,
+      545.24,
+      561.82
+    ],
+    "text": "Morocco 147 0 147 97 51.5 371",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      565.78,
+      545.24,
+      578.38
+    ],
+    "text": "Sudan 44 0 44 53 (17.0) 134",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      582.22,
+      545.24,
+      638.14
+    ],
+    "text": "Others 156 2 158 133 18.8 391 Sub-Saharan Africa",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198.77,
+      627.1,
+      336.77,
+      638.14
+    ],
+    "text": "1,154 185 1,339",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      380.83,
+      613.66,
+      408.41,
+      638.14
+    ],
+    "text": "1,130",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      432.94,
+      613.66,
+      455.12,
+      638.14
+    ],
+    "text": "18.5",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      613.66,
+      545.24,
+      669.58
+    ],
+    "text": "3,800 Kenya 41 0 41 48 (14.6) 167 Mauritius 97 0 97 60 61.7 247",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      673.42,
+      545.24,
+      686.02
+    ],
+    "text": "Nigeria 16 0 16 42 (61.9) 72",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.26,
+      690.0,
+      545.24,
+      717.48
+    ],
+    "text": "South Africa 826 181 1,007 791 27.3 2,624 Others 174 4 178 189 (5.8) 690",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      744.72,
+      80.16,
+      755.88
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.98,
+      95.06,
+      445.28,
+      109.22
+    ],
+    "text": "March 2019",
+    "fonts": [
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      149.42,
+      113.06,
+      402.83,
+      127.22
+    ],
+    "text": "Tourist Arrivals Total Tourist",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      344.35,
+      126.5,
+      401.09,
+      150.98
+    ],
+    "text": "Arrivals March 2018",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      420.67,
+      122.06,
+      480.01,
+      133.1
+    ],
+    "text": "% Change",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      412.27,
+      135.5,
+      480.04,
+      159.98
+    ],
+    "text": "March (2019 / 2018)",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      485.02,
+      113.06,
+      545.42,
+      124.1
+    ],
+    "text": "Total Tourist",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      489.34,
+      126.5,
+      541.08,
+      137.54
+    ],
+    "text": "Arrivals up",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      493.06,
+      139.94,
+      537.3,
+      150.98
+    ],
+    "text": "to March",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      160.7,
+      153.38,
+      527.6,
+      168.98
+    ],
+    "text": "2019 By Air By Sea",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      295.85,
+      144.5,
+      321.65,
+      168.98
+    ],
+    "text": "Total",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      172.82,
+      546.56,
+      185.54
+    ],
+    "text": "ASIA & PACIFIC 95,194 3,470 98,664 88,299 11.7 292,601",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      189.38,
+      546.56,
+      201.98
+    ],
+    "text": "North East Asia 30,249 262 30,511 27,854 9.5 99,575",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      205.82,
+      546.56,
+      222.02
+    ],
+    "text": "China 23,576 183 23,759 21,101 12.6 78,212",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      225.89,
+      546.56,
+      240.17
+    ],
+    "text": "Japan 4,583 28 4,611 4,629 (0.4) 13,042",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      244.13,
+      546.56,
+      317.21
+    ],
+    "text": "South Korea 1,191 23 1,214 1,398 (13.2) 4,960 Taiwan 862 27 889 700 27.0 3,270 Others 37 1 38 26 46.2 91 South East Asia 8,740 442 9,182 7,840 17.1 23,008",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      321.17,
+      546.56,
+      348.65
+    ],
+    "text": "Cambodia 1,591 1 1,592 103 - 2,465 Indonesia 491 41 532 589 (9.7) 1,506",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      352.61,
+      546.56,
+      366.89
+    ],
+    "text": "Malaysia 1,972 26 1,998 1994 0.2 5,549",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      370.73,
+      546.56,
+      383.33
+    ],
+    "text": "Myanmar 275 35 310 172 80.2 832",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      387.31,
+      546.56,
+      399.91
+    ],
+    "text": "Philippines 1,126 287 1,413 1775 (20.4) 4,142",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      403.75,
+      546.56,
+      416.35
+    ],
+    "text": "Singapore 1,797 27 1,824 1809 0.8 4,441",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      420.31,
+      546.56,
+      572.02
+    ],
+    "text": "Thailand 965 18 983 1028 (4.4) 2,920 Vietnam 492 7 499 330 51.2 1,076 Others 31 0 31 40 (22.5) 77 Oceania 10,768 2,134 12,902 9,966 29.5 34,264 Australia 9,600 1,841 11,441 8,932 28.1 30,619 New Zealand 1,144 293 1,437 1,004 43.1 3,574 Others 24 0 24 30 (20.0) 71 South Asia 45,437 632 46,069 42,639 8.0 135,754",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      575.86,
+      546.56,
+      588.46
+    ],
+    "text": "Afghanistan 59 0 59 112 (47.3) 155",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      592.42,
+      546.56,
+      605.02
+    ],
+    "text": "Bangladesh 841 7 848 996 (14.9) 2,525",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      608.86,
+      546.56,
+      622.06
+    ],
+    "text": "Bhutan 25 0 25 37 (32.4) 136",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      626.02,
+      546.56,
+      639.82
+    ],
+    "text": "India 34,248 564 34812 30,583 13.8 107,147",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      643.78,
+      546.56,
+      685.66
+    ],
+    "text": "Iran 1,025 0 1025 1716 (40.3) 1,555 Maldives 7,801 1 7802 7,239 7.8 18,737 Nepal 370 47 417 367 13.6 1,379",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.94,
+      702.96,
+      108.0,
+      714.0
+    ],
+    "text": "Pakistan",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      149.9,
+      689.52,
+      222.15,
+      714.0
+    ],
+    "text": "1,068",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      262.49,
+      689.52,
+      276.15,
+      714.0
+    ],
+    "text": "13",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      305.57,
+      689.52,
+      333.17,
+      714.0
+    ],
+    "text": "1,081",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      376.39,
+      689.52,
+      403.97,
+      714.0
+    ],
+    "text": "1,589",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      429.79,
+      689.52,
+      458.48,
+      714.0
+    ],
+    "text": "(32.0)",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      518.98,
+      689.52,
+      546.56,
+      714.0
+    ],
+    "text": "4,120",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      744.72,
+      80.16,
+      755.88
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.05,
+      85.7,
+      277.92,
+      97.7
+    ],
+    "text": "March 2019",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      207.77,
+      140.9,
+      286.32,
+      152.9
+    ],
+    "text": "Tourist Arrivals",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      342.43,
+      101.42,
+      402.83,
+      112.46
+    ],
+    "text": "Total Tourist",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      342.91,
+      114.86,
+      402.53,
+      140.66
+    ],
+    "text": "Arrivals March 2018",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      420.67,
+      115.7,
+      479.96,
+      126.74
+    ],
+    "text": "% Change",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      412.27,
+      129.02,
+      479.93,
+      153.5
+    ],
+    "text": "March (2019 / 2018)",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      485.14,
+      101.42,
+      545.54,
+      112.46
+    ],
+    "text": "Total Tourist",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      489.46,
+      114.86,
+      541.2,
+      125.9
+    ],
+    "text": "Arrivals up",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      493.3,
+      128.3,
+      537.54,
+      139.34
+    ],
+    "text": "to March",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.7,
+      141.74,
+      527.84,
+      167.78
+    ],
+    "text": "2019 By Air By Sea Total",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      172.34,
+      546.56,
+      187.22
+    ],
+    "text": "EUROPE 111,304 8,651 119,955 124,144 (3.4) 378,650",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      190.94,
+      546.56,
+      203.54
+    ],
+    "text": "Northern Eur. 33,458 4,295 37,753 40,036 (5.7) 119,579",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      207.5,
+      546.56,
+      221.18
+    ],
+    "text": "Denmark 1,665 180 1,845 2,227 (17.2) 8,884",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      225.05,
+      546.56,
+      239.21
+    ],
+    "text": "Finland 992 15 1,007 1,036 (2.8) 4,264",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      243.05,
+      546.56,
+      257.57
+    ],
+    "text": "Norway 1,219 59 1,278 1,784 (28.4) 5,237",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      261.53,
+      546.56,
+      300.89
+    ],
+    "text": "Sweden 2,596 64 2,660 3,109 (14.4) 12,091 United Kingdom",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189.05,
+      289.85,
+      333.17,
+      300.89
+    ],
+    "text": "25,755 3,927 29,682",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      370.87,
+      276.41,
+      403.97,
+      300.89
+    ],
+    "text": "30,366",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      432.58,
+      276.41,
+      455.72,
+      300.89
+    ],
+    "text": "(2.3)",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      513.46,
+      276.41,
+      546.56,
+      287.45
+    ],
+    "text": "85,468",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      304.73,
+      546.56,
+      362.21
+    ],
+    "text": "Others 1,231 50 1,281 1,514 (15.4) 3,635 Western Eur. 41,843 1,969 43,812 51,839 (15.5) 129,897 Austria 1,787 145 1,932 2,573 (24.9) 6,929",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      366.05,
+      546.56,
+      379.73
+    ],
+    "text": "Belgium 1,580 66 1,646 1,666 (1.2) 4,605",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      383.59,
+      546.56,
+      397.75
+    ],
+    "text": "France 13,287 670 13,957 14,818 (5.8) 43,144",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      401.59,
+      546.56,
+      415.75
+    ],
+    "text": "Germany 17,548 586 18,134 24,423 (25.8) 49,429",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      419.59,
+      546.56,
+      433.75
+    ],
+    "text": "Netherlands 4,575 289 4,864 4,532 7.3 15,091",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      437.59,
+      546.56,
+      506.83
+    ],
+    "text": "Switzerland 2,975 204 3,179 3,682 (13.7) 10,432 Others 91 9 100 145 (31.0) 267 Central / Eastern Europe",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188.93,
+      495.79,
+      333.17,
+      506.83
+    ],
+    "text": "26,886 840 27,726",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      370.75,
+      482.47,
+      403.97,
+      506.83
+    ],
+    "text": "21,861",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      432.94,
+      482.47,
+      457.64,
+      506.83
+    ],
+    "text": "26.8",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      482.47,
+      546.56,
+      523.03
+    ],
+    "text": "92,934 Belarus 909 5 914 666 37.2 2,841",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      527.02,
+      546.56,
+      539.62
+    ],
+    "text": "Czech Republic 3,036 5 3,041 2,674 13.7 10,277",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      543.46,
+      546.56,
+      556.06
+    ],
+    "text": "Estonia 266 2 268 359 (25.3) 1,328",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      560.02,
+      546.56,
+      572.62
+    ],
+    "text": "Hungary 598 25 623 517 20.5 2,324",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      576.46,
+      546.56,
+      589.06
+    ],
+    "text": "Kazakhstan 256 10 266 370 (28.1) 1,102",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      593.02,
+      546.56,
+      605.62
+    ],
+    "text": "Lithuania 393 6 399 402 (0.7) 1,424",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      609.46,
+      546.56,
+      622.06
+    ],
+    "text": "Poland 2,530 123 2,653 1,676 58.3 9,795",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      626.02,
+      546.56,
+      666.94
+    ],
+    "text": "Romania 624 55 679 561 21.0 2,483 Russian Federation",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149.9,
+      642.46,
+      222.15,
+      666.94
+    ],
+    "text": "12,448",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      256.97,
+      642.46,
+      276.15,
+      666.94
+    ],
+    "text": "257",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      300.05,
+      642.46,
+      333.17,
+      666.94
+    ],
+    "text": "12,705",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      376.39,
+      642.46,
+      403.97,
+      666.94
+    ],
+    "text": "9,089",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      433.06,
+      642.46,
+      455.12,
+      666.94
+    ],
+    "text": "39.8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      642.46,
+      546.56,
+      683.5
+    ],
+    "text": "39,187 Slovakia 758 5 763 896 (14.8) 2,456",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      687.36,
+      546.56,
+      699.96
+    ],
+    "text": "Ukraine 3,986 253 4,239 3,532 20.0 16,073",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.94,
+      703.92,
+      546.56,
+      716.52
+    ],
+    "text": "Others 1,082 94 1176 1,119 5.9 3,628",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      744.72,
+      80.16,
+      755.88
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      217.13,
+      88.1,
+      276.75,
+      100.1
+    ],
+    "text": "March 2019",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      210.89,
+      144.14,
+      282.87,
+      155.18
+    ],
+    "text": "Tourist Arrivals",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      342.43,
+      103.94,
+      402.83,
+      128.42
+    ],
+    "text": "Total Tourist",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      342.91,
+      130.82,
+      402.53,
+      156.5
+    ],
+    "text": "Arrivals March 2018",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      420.67,
+      117.5,
+      480.01,
+      128.54
+    ],
+    "text": "% Change",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      412.27,
+      131.3,
+      480.04,
+      156.62
+    ],
+    "text": "March (2019 / 2018)",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      485.14,
+      103.94,
+      545.54,
+      114.98
+    ],
+    "text": "Total Tourist",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      489.46,
+      117.38,
+      541.2,
+      128.42
+    ],
+    "text": "Arrivals up",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      493.3,
+      130.82,
+      537.54,
+      141.86
+    ],
+    "text": "to March",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      144.14,
+      527.84,
+      211.94
+    ],
+    "text": "2019 By Air By Sea Total Southern / Mediterranean Europe",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      194.57,
+      200.9,
+      333.17,
+      211.94
+    ],
+    "text": "9,117 1,547 10,664",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      370.75,
+      174.02,
+      403.97,
+      211.94
+    ],
+    "text": "10,408",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      435.82,
+      174.02,
+      454.88,
+      211.94
+    ],
+    "text": "2.5",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      174.02,
+      546.56,
+      228.5
+    ],
+    "text": "36,240 Greece 447 196 643 770 (16.5) 2,103",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      232.37,
+      546.56,
+      244.97
+    ],
+    "text": "Italy 3,364 945 4,309 4,157 3.7 16,105",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      248.81,
+      546.56,
+      261.53
+    ],
+    "text": "Portugal 774 32 806 537 50.1 1,850",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      265.37,
+      546.56,
+      277.97
+    ],
+    "text": "Spain 2,191 189 2,380 2,452 (2.9) 5,989",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      281.81,
+      546.56,
+      294.53
+    ],
+    "text": "Turkey 400 44 444 365 21.6 1,720",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      298.37,
+      546.56,
+      310.97
+    ],
+    "text": "Israel 1,031 46 1,077 1255 (14.2) 4,508",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      314.81,
+      546.56,
+      327.53
+    ],
+    "text": "Others 910 95 1,005 872 15.3 3,965",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      346.37,
+      137.85,
+      358.37
+    ],
+    "text": "MIDDLE EAST",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      192.17,
+      346.37,
+      333.38,
+      358.37
+    ],
+    "text": "4,326 13 4,339",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      373.99,
+      331.73,
+      404.18,
+      358.37
+    ],
+    "text": "3,520",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      432.1,
+      331.73,
+      456.29,
+      358.37
+    ],
+    "text": "23.3",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      485.14,
+      331.73,
+      545.81,
+      358.37
+    ],
+    "text": "13,072",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      362.21,
+      546.56,
+      374.81
+    ],
+    "text": "Bahrain 150 0 150 195 (23.1) 706",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      378.67,
+      546.56,
+      391.27
+    ],
+    "text": "Egypt 362 2 364 278 30.9 988",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      395.23,
+      546.56,
+      407.83
+    ],
+    "text": "Iraq 113 0 113 41 175.6 262",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      411.67,
+      546.56,
+      424.27
+    ],
+    "text": "Jordan 293 2 295 299 (1.3) 905",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      428.23,
+      546.56,
+      440.83
+    ],
+    "text": "Kuwait 246 0 246 240 2.5 1,258",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      444.67,
+      546.56,
+      457.27
+    ],
+    "text": "Lebanon 575 1 576 561 2.7 1,375",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      461.23,
+      546.56,
+      473.83
+    ],
+    "text": "Oman 324 0 324 268 20.9 1,243",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      477.67,
+      546.56,
+      490.27
+    ],
+    "text": "Qatar 115 0 115 63 82.5 299",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      494.23,
+      546.56,
+      535.15
+    ],
+    "text": "Saudi Arabia 1,402 0 1,402 997 40.6 4,318 United Arab Emirates",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149.9,
+      510.67,
+      546.56,
+      521.71
+    ],
+    "text": "587 3 590 420 40.5 1,207",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      539.02,
+      546.56,
+      566.62
+    ],
+    "text": "Others 159 5 164 158 3.8 511",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.94,
+      573.34,
+      103.05,
+      599.98
+    ],
+    "text": "TOTAL",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      149.9,
+      570.82,
+      222.82,
+      602.41
+    ],
+    "text": "227,686",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      234.53,
+      571.21,
+      276.82,
+      602.41
+    ],
+    "text": "16,642",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      284.45,
+      571.21,
+      333.84,
+      602.41
+    ],
+    "text": "244,328",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      355.27,
+      588.37,
+      404.64,
+      602.41
+    ],
+    "text": "233,382",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      432.34,
+      571.21,
+      456.63,
+      602.41
+    ],
+    "text": "4.7",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      484.78,
+      571.21,
+      546.75,
+      602.41
+    ],
+    "text": "740,600",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      617.35,
+      423.33,
+      638.74
+    ],
+    "text": "* All visitor arrival statistics in this report are from the Department of Immigration & Emigration.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027
+    ]
+  }
+]

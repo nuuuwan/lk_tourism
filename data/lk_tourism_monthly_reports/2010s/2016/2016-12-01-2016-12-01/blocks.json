@@ -1,0 +1,694 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      41.76,
+      82.94,
+      254.09,
+      297.68
+    ],
+    "text": "MONTH20152016 *% Cha. 2015/16Jan156,246 194,280 24.3 Feb165,541 197,697 19.4 Mar157,051 192,841 22.8 Apr122,217 136,367 11.6 May113,529 125,044 10.1 Jun115,467 118,038 2.2 Jul175,804 209,351 19.1 Aug166,610 186,288 11.8 Sep143,374 148,499 3.6 Oct132,280 150,419 13.7 Nov144,147 167,217 16.0 Dec206,114 224,791 9.1 Total1,798,380 2,050,832 14.0 * Provisional",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.5600004196167
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      41.28,
+      572.02,
+      463.97,
+      577.3
+    ],
+    "text": "\"Tourist\" refers to an International Visitor who stays at least one night in a collective or private accommo dation in the country visited. This excludes \"International Excursionists\" (same day visitors).",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      5.28000020980835
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.93,
+      656.11,
+      470.08,
+      749.91
+    ],
+    "text": "Published by:Research & International Relations DivisionSri Lanka Tourism Development AuthorityNo. 80, Galle RoadColombo 03Tel: 00 94 11 2437055, 2437059-60Fax: 00 94 11 2380943Email: research@srilanka.travel",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      194.9,
+      600.63,
+      401.66,
+      630.39
+    ],
+    "text": "DECEMBER 2016",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      26.8799991607666
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.42,
+      310.47,
+      428.99,
+      323.97
+    ],
+    "text": "Tourist Arrivals Targets & Actual Tourist Arrivals",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      11.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.42,
+      767.37,
+      451.97,
+      776.95
+    ],
+    "text": "Monthly Bulletin, Sri Lanka Tourism Development Authority - December 2016",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.78,
+      46.32,
+      398.63,
+      62.1
+    ],
+    "text": "TOURIST * ARRIVALS BY MONTH",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      13.46399974822998
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.06,
+      243.07,
+      304.17,
+      252.64
+    ],
+    "text": "-",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      279.6,
+      213.14,
+      308.53,
+      222.69
+    ],
+    "text": "50,000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.73,
+      183.14,
+      308.56,
+      192.71
+    ],
+    "text": "100,000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.73,
+      153.16,
+      308.56,
+      162.73
+    ],
+    "text": "150,000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.73,
+      123.23,
+      308.52,
+      132.78
+    ],
+    "text": "200,000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.73,
+      93.24,
+      308.56,
+      102.81
+    ],
+    "text": "250,000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.93,
+      253.13,
+      334.48,
+      265.85
+    ],
+    "text": "Jan",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.36,
+      253.14,
+      352.91,
+      267.38
+    ],
+    "text": "Feb",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      361.79,
+      253.19,
+      371.34,
+      269.3
+    ],
+    "text": "Mar",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      380.22,
+      253.14,
+      389.77,
+      267.1
+    ],
+    "text": "Apr",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      398.64,
+      253.18,
+      408.21,
+      270.29
+    ],
+    "text": "May",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      417.07,
+      253.19,
+      426.64,
+      266.3
+    ],
+    "text": "Jun",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      435.5,
+      253.22,
+      445.07,
+      263.45
+    ],
+    "text": "Jul",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      453.93,
+      253.17,
+      463.5,
+      268.25
+    ],
+    "text": "Aug",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      472.41,
+      253.14,
+      481.96,
+      267.38
+    ],
+    "text": "Sep",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      490.84,
+      253.22,
+      500.39,
+      266.78
+    ],
+    "text": "Oct",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      509.27,
+      253.15,
+      518.82,
+      268.73
+    ],
+    "text": "Nov",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      527.7,
+      253.13,
+      537.25,
+      267.89
+    ],
+    "text": "Dec",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.25,
+      254.77,
+      301.22,
+      263.65
+    ],
+    "text": "2015",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.880000114440918
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.25,
+      270.2,
+      301.22,
+      279.08
+    ],
+    "text": "2016",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.880000114440918
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      157.73,
+      503.42,
+      162.59,
+      512.99
+    ],
+    "text": "0",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      133.39,
+      473.97,
+      162.48,
+      483.54
+    ],
+    "text": "500000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.52,
+      444.52,
+      162.54,
+      454.09
+    ],
+    "text": "1000000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.52,
+      415.08,
+      162.54,
+      424.65
+    ],
+    "text": "1500000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.52,
+      385.63,
+      162.54,
+      395.2
+    ],
+    "text": "2000000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.52,
+      356.18,
+      162.54,
+      365.75
+    ],
+    "text": "2500000",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      185.22,
+      513.52,
+      194.77,
+      532.97
+    ],
+    "text": "2009",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.41,
+      513.52,
+      229.96,
+      532.97
+    ],
+    "text": "2010",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.59,
+      513.52,
+      265.14,
+      532.97
+    ],
+    "text": "2011",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.78,
+      513.52,
+      300.33,
+      532.97
+    ],
+    "text": "2012",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.96,
+      513.52,
+      335.51,
+      532.97
+    ],
+    "text": "2013",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.552000045776367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      361.12,
+      513.53,
+      370.69,
+      532.97
+    ],
+    "text": "2014",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.31,
+      513.53,
+      405.88,
+      532.97
+    ],
+    "text": "2015",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      431.49,
+      513.53,
+      441.06,
+      532.97
+    ],
+    "text": "2016",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.576000213623047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      106.85,
+      517.62,
+      129.47,
+      526.5
+    ],
+    "text": "Actaul",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.880000114440918
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      106.85,
+      534.46,
+      133.42,
+      543.31
+    ],
+    "text": "Targets",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.855999946594238
+    ]
+  }
+]
