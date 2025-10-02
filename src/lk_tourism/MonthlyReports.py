@@ -22,7 +22,9 @@ class MonthlyReports(WeeklyReports):
 
     @classmethod
     def gen_year_urls(cls):
-        url_years = cls.URL_BASE + "/en/monthly-tourist-arrivals-reports"
+        url_years = (
+            "https://www.sltda.gov.lk" + "/en/monthly-tourist-arrivals-reports"
+        )
         www = WWW(url_years)
         soup = www.soup
         assert soup, f"[{www}] Failed to get soup."
@@ -58,9 +60,7 @@ class MonthlyReports(WeeklyReports):
             month_text = cls.__hacky_fix_month_text__(month_text)
 
             date_str = TimeFormat.DATE.format(
-                TimeFormat("%Y %B").parse(
-                    year_text.strip() + " " + month_text
-                )
+                TimeFormat("%Y %B").parse(year_text.strip() + " " + month_text)
             )
             num = date_str
 

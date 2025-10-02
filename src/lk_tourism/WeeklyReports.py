@@ -10,7 +10,6 @@ log = Log("WeeklyReports")
 
 
 class WeeklyReports(AbstractPDFDoc):
-    URL_BASE = "https://www.sltda.gov.lk"
 
     @classmethod
     def get_doc_class_label(cls):
@@ -30,7 +29,10 @@ class WeeklyReports(AbstractPDFDoc):
 
     @classmethod
     def gen_year_urls(cls):
-        url_years = cls.URL_BASE + "/en/weekly-tourist-arrivals-reports-2023"
+        url_years = (
+            "https://www.sltda.gov.lk"
+            + "/en/weekly-tourist-arrivals-reports-2023"
+        )
         www = WWW(url_years)
         soup = www.soup
         assert soup, f"[{www}] Failed to get soup."
