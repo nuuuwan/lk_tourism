@@ -1,16 +1,16 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**2** datasets, with **162** documents (**416.3 MB**).
+**2** datasets, with **163** documents (**421.1 MB**).
 
 ## 001 🌴 Tourism Weekly Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_15:35:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_16:34:42-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports)
 
 Report on Weekly Tourist Arrivals to Sri Lanka.
 
-- [**34** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports) (**96.5 MB**), from **2023-01-01** to **2025-10-01**, scraped from [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
+- [**35** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports) (**101.3 MB**), from **2023-01-01** to **2025-11-01**, scraped from [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
