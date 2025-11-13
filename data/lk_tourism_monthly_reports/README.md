@@ -1,12 +1,12 @@
 # 🌴#SriLanka 🇱🇰 Tourism Monthly Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_13:35:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_14:11:09-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports)
 
 Report on Monthly Tourist Arrivals to Sri Lanka.
 
-- [**128** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports) (**319.8 MB**), from **2015-01-01** to **2025-09-01**, scraped from [https://sltda.gov.lk](https://sltda.gov.lk) & [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
+- [**129** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports) (**326.2 MB**), from **2015-01-01** to **2025-10-01**, scraped from [https://sltda.gov.lk](https://sltda.gov.lk) & [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,13 +19,13 @@ Report on Monthly Tourist Arrivals to Sri Lanka.
 ```json
 {
     "doc_type": "lk_tourism_monthly_reports",
-    "doc_id": "2025-09-01-2025-09-01",
-    "num": "2025-09-01",
-    "date_str": "2025-09-01",
-    "description": "Arrivals Report September 2025",
+    "doc_id": "2025-10-01-2025-10-01",
+    "num": "2025-10-01",
+    "date_str": "2025-10-01",
+    "description": "Arrivals Report October 2025",
     "url_metadata": "https://www.sltda.gov.lk/en/monthly-tourist-arrivals-reports-2025",
     "lang": "en",
-    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Monthly_Tourits_Arrivals_Report-September-2025-Final.pdf"
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Monthly_Tourits_Arrivals_Report-October-2025-Final.pdf"
 }
 ```
 
@@ -40,6 +40,7 @@ Report on Monthly Tourist Arrivals to Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `2025-10-01` | Arrivals Report October 2025 | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/2020s/2025/2025-10-01-2025-10-01)
 - 2025-09-01 | `2025-09-01` | Arrivals Report September 2025 | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/2020s/2025/2025-09-01-2025-09-01)
 - 2025-08-01 | `2025-08-01` | Arrivals Report August 2025 | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/2020s/2025/2025-08-01-2025-08-01)
 - 2025-07-01 | `2025-07-01` | Arrivals Report July 2025 | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/2020s/2025/2025-07-01-2025-07-01)
@@ -59,7 +60,6 @@ Report on Monthly Tourist Arrivals to Sri Lanka.
 - 2024-05-01 | `2024-05-01` | Arrivals Report May 2024 | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/2020s/2024/2024-05-01-2024-05-01)
 - 2024-04-01 | `2024-04-01` | Arrivals Report April 2024 | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/2020s/2024/2024-04-01-2024-04-01)
 - 2024-03-01 | `2024-03-01` | Arrivals Report March 2024 | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/2020s/2024/2024-03-01-2024-03-01)
-- 2024-02-01 | `2024-02-01` | Arrivals Report February 2024 | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/2020s/2024/2024-02-01-2024-02-01)
 
 ---
 
