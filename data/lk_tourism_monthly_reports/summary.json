@@ -2,7 +2,7 @@
   "doc_class_label": "lk_tourism_monthly_reports",
   "doc_class_emoji": "\ud83c\udf34",
   "doc_class_description": "Report on Monthly Tourist Arrivals to Sri Lanka.",
-  "time_updated": "2025-11-19 14:10:58",
+  "time_updated": "2025-11-19 14:35:35",
   "n_docs": 129,
   "n_docs_with_pdfs": 129,
   "n_docs_with_text": 129,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-01-01",
   "date_str_max": "2025-10-01",
-  "dataset_size": 331848260,
+  "dataset_size": 331848261,
   "url_source_list": [
     "https://sltda.gov.lk",
     "https://www.sltda.gov.lk"
