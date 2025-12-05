@@ -1,12 +1,12 @@
 # 🌴#SriLanka 🇱🇰 Tourism Weekly Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_16:35:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_17:05:21-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports)
 
 Report on Weekly Tourist Arrivals to Sri Lanka.
 
-- [**36** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports) (**105.6 MB**), from **2023-01-01** to **2025-12-01**, scraped from [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
+- [**36** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports) (**106.1 MB**), from **2023-01-01** to **2025-12-01**, scraped from [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
