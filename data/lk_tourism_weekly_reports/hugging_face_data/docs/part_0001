@@ -348,5 +348,15 @@
     "url_metadata": "https://www.sltda.gov.lk/en/weekly-tourist-arrivals-reports-2025",
     "lang": "en",
     "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_5th_November_2025.pdf"
+  },
+  {
+    "doc_type": "lk_tourism_weekly_reports",
+    "doc_id": "2025-12-01-2025-12-01",
+    "num": "2025-12-01",
+    "date_str": "2025-12-01",
+    "description": "TOURIST ARRIVALS - 2025 - December",
+    "url_metadata": "https://www.sltda.gov.lk/en/weekly-tourist-arrivals-reports-2025",
+    "lang": "en",
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_04th_December_2025.pdf"
   }
 ]

@@ -1,12 +1,12 @@
 # 🌴#SriLanka 🇱🇰 Tourism Weekly Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_16:09:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_16:35:14-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports)
 
 Report on Weekly Tourist Arrivals to Sri Lanka.
 
-- [**35** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports) (**101.3 MB**), from **2023-01-01** to **2025-11-01**, scraped from [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
+- [**36** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports) (**105.6 MB**), from **2023-01-01** to **2025-12-01**, scraped from [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,13 +19,13 @@ Report on Weekly Tourist Arrivals to Sri Lanka.
 ```json
 {
     "doc_type": "lk_tourism_weekly_reports",
-    "doc_id": "2025-11-01-2025-11-01",
-    "num": "2025-11-01",
-    "date_str": "2025-11-01",
-    "description": "TOURIST ARRIVALS - 2025 - November",
+    "doc_id": "2025-12-01-2025-12-01",
+    "num": "2025-12-01",
+    "date_str": "2025-12-01",
+    "description": "TOURIST ARRIVALS - 2025 - December",
     "url_metadata": "https://www.sltda.gov.lk/en/weekly-tourist-arrivals-reports-2025",
     "lang": "en",
-    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_5th_November_2025.pdf"
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_04th_December_2025.pdf"
 }
 ```
 
@@ -40,6 +40,7 @@ Report on Weekly Tourist Arrivals to Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-01 | `2025-12-01` | TOURIST ARRIVALS - 2025 - December | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/2020s/2025/2025-12-01-2025-12-01)
 - 2025-11-01 | `2025-11-01` | TOURIST ARRIVALS - 2025 - November | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/2020s/2025/2025-11-01-2025-11-01)
 - 2025-10-01 | `2025-10-01` | TOURIST ARRIVALS - 2025 - October | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/2020s/2025/2025-10-01-2025-10-01)
 - 2025-09-01 | `2025-09-01` | TOURIST ARRIVALS - 2025 - September | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/2020s/2025/2025-09-01-2025-09-01)
@@ -59,7 +60,6 @@ Report on Weekly Tourist Arrivals to Sri Lanka.
 - 2024-07-01 | `2024-07-01` | TOURIST ARRIVALS - 2024 - July | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/2020s/2024/2024-07-01-2024-07-01)
 - 2024-06-01 | `2024-06-01` | TOURIST ARRIVALS - 2024 - June | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/2020s/2024/2024-06-01-2024-06-01)
 - 2024-05-01 | `2024-05-01` | TOURIST ARRIVALS - 2024 - May | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/2020s/2024/2024-05-01-2024-05-01)
-- 2024-04-01 | `2024-04-01` | TOURIST ARRIVALS - 2024 - April | [data](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/2020s/2024/2024-04-01-2024-04-01)
 
 ---
 

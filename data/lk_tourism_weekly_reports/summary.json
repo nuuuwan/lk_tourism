@@ -2,15 +2,15 @@
   "doc_class_label": "lk_tourism_weekly_reports",
   "doc_class_emoji": "\ud83c\udf34",
   "doc_class_description": "Report on Weekly Tourist Arrivals to Sri Lanka.",
-  "time_updated": "2025-12-05 16:09:01",
-  "n_docs": 35,
-  "n_docs_with_pdfs": 35,
-  "n_docs_with_text": 35,
+  "time_updated": "2025-12-05 16:35:13",
+  "n_docs": 36,
+  "n_docs_with_pdfs": 36,
+  "n_docs_with_text": 36,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2023-01-01",
-  "date_str_max": "2025-11-01",
-  "dataset_size": 101262003,
+  "date_str_max": "2025-12-01",
+  "dataset_size": 105576826,
   "url_source_list": [
     "https://www.sltda.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_tourism_weekly_reports",
-    "doc_id": "2025-11-01-2025-11-01",
-    "num": "2025-11-01",
-    "date_str": "2025-11-01",
-    "description": "TOURIST ARRIVALS - 2025 - November",
+    "doc_id": "2025-12-01-2025-12-01",
+    "num": "2025-12-01",
+    "date_str": "2025-12-01",
+    "description": "TOURIST ARRIVALS - 2025 - December",
     "url_metadata": "https://www.sltda.gov.lk/en/weekly-tourist-arrivals-reports-2025",
     "lang": "en",
-    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_5th_November_2025.pdf"
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_04th_December_2025.pdf"
   }
 }
