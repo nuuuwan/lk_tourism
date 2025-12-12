@@ -1288,5 +1288,15 @@
     "url_metadata": "https://www.sltda.gov.lk/en/monthly-tourist-arrivals-reports-2025",
     "lang": "en",
     "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Monthly_Tourits_Arrivals_Report-October-2025-Final.pdf"
+  },
+  {
+    "doc_type": "lk_tourism_monthly_reports",
+    "doc_id": "2025-11-01-2025-11-01",
+    "num": "2025-11-01",
+    "date_str": "2025-11-01",
+    "description": "Arrivals Report November 2025",
+    "url_metadata": "https://www.sltda.gov.lk/en/monthly-tourist-arrivals-reports-2025",
+    "lang": "en",
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Monthly_Tourits_Arrivals_Report-November-2025-Final.pdf"
   }
 ]
