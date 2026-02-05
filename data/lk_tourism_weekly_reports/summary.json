@@ -2,15 +2,15 @@
   "doc_class_label": "lk_tourism_weekly_reports",
   "doc_class_emoji": "\ud83c\udf34",
   "doc_class_description": "Report on Weekly Tourist Arrivals to Sri Lanka.",
-  "time_updated": "2026-02-05 16:16:01",
-  "n_docs": 37,
-  "n_docs_with_pdfs": 37,
-  "n_docs_with_text": 37,
+  "time_updated": "2026-02-05 16:45:10",
+  "n_docs": 38,
+  "n_docs_with_pdfs": 38,
+  "n_docs_with_text": 38,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2023-01-01",
-  "date_str_max": "2026-01-01",
-  "dataset_size": 107116462,
+  "date_str_max": "2026-02-01",
+  "dataset_size": 107917095,
   "url_source_list": [
     "https://www.sltda.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_tourism_weekly_reports",
-    "doc_id": "2026-01-01-2026-01-01",
-    "num": "2026-01-01",
-    "date_str": "2026-01-01",
-    "description": "TOURIST ARRIVALS - 2026 - January",
+    "doc_id": "2026-02-01-2026-02-01",
+    "num": "2026-02-01",
+    "date_str": "2026-02-01",
+    "description": "TOURIST ARRIVALS - 2026 - February",
     "url_metadata": "https://www.sltda.gov.lk/en/weekly-tourist-arrivals-reports-2026",
     "lang": "en",
-    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_4th_January_2026.pdf"
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_4th_February_2026.pdf"
   }
 }
