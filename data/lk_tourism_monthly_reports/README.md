@@ -1,6 +1,6 @@
 # 🌴#SriLanka 🇱🇰 Tourism Monthly Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--28_10:43:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--28_11:13:46-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports)
 
