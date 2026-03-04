@@ -4,7 +4,7 @@
 
 ## 001 🌴 Tourism Weekly Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--04_19:46:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--04_20:15:26-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports)
 
