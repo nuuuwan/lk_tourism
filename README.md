@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**2** datasets, with **172** documents (**459.4 MB**).
+**1** datasets, with **39** documents (**110.0 MB**).
 
 ## 001 🌴 Tourism Weekly Reports
 
@@ -19,24 +19,6 @@ Report on Weekly Tourist Arrivals to Sri Lanka.
 - 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
 
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_tourism/refs/heads/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/docs_by_month_and_lang.png)
-
-## 002 🌴 Tourism Monthly Reports
-
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--31_00:54:06-green)
-
-[https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports)
-
-Report on Monthly Tourist Arrivals to Sri Lanka.
-
-- [**133** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports) (**349.4 MB**), from **2015-01-01** to **2026-02-01**, scraped from [https://sltda.gov.lk](https://sltda.gov.lk) & [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
-
-- In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
-
-- In **English**
-
-- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
-
-![Chart](https://raw.githubusercontent.com/nuuuwan/lk_tourism/refs/heads/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports/docs_by_year_and_lang.png)
 
 ---
 
