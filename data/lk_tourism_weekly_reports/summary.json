@@ -2,7 +2,7 @@
   "doc_class_label": "lk_tourism_weekly_reports",
   "doc_class_emoji": "\ud83c\udf34",
   "doc_class_description": "Report on Weekly Tourist Arrivals to Sri Lanka.",
-  "time_updated": "2026-05-23 06:06:53",
+  "time_updated": "2026-05-23 07:06:36",
   "n_docs": 41,
   "n_docs_with_pdfs": 41,
   "n_docs_with_text": 41,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 0,
   "date_str_min": "2023-01-01",
   "date_str_max": "2026-05-01",
-  "dataset_size": 112777900,
+  "dataset_size": 112777901,
   "url_source_list": [
     "https://www.sltda.gov.lk"
   ],
