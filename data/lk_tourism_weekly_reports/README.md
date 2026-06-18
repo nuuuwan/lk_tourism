@@ -1,6 +1,6 @@
 # 🌴#SriLanka 🇱🇰 Tourism Weekly Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--18_19:11:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--18_20:35:01-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports)
 
