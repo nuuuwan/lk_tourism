@@ -1,28 +1,10 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**2** datasets, with **182** documents (**482.5 MB**).
+**1** datasets, with **138** documents (**365.8 MB**).
 
-## 001 🌴 Tourism Weekly Reports
+## 001 🌴 Tourism Monthly Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--17_19:14:54-green)
-
-[https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports)
-
-Report on Weekly Tourist Arrivals to Sri Lanka.
-
-- [**44** documents](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports) (**116.7 MB**), from **2023-01-01** to **2026-08-01**, scraped from [https://www.sltda.gov.lk](https://www.sltda.gov.lk)
-
-- In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
-
-- In **English**
-
-- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
-
-![Chart](https://raw.githubusercontent.com/nuuuwan/lk_tourism/refs/heads/data_lk_tourism_weekly_reports/data/lk_tourism_weekly_reports/docs_by_month_and_lang.png)
-
-## 002 🌴 Tourism Monthly Reports
-
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--17_19:15:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--17_20:11:24-green)
 
 [https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports](https://github.com/nuuuwan/lk_tourism/tree/data_lk_tourism_monthly_reports/data/lk_tourism_monthly_reports)
 
