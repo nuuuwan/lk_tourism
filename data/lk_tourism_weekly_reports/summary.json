@@ -2,15 +2,15 @@
   "doc_class_label": "lk_tourism_weekly_reports",
   "doc_class_emoji": "\ud83c\udf34",
   "doc_class_description": "Report on Weekly Tourist Arrivals to Sri Lanka.",
-  "time_updated": "2026-09-08 16:37:37",
-  "n_docs": 44,
-  "n_docs_with_pdfs": 44,
-  "n_docs_with_text": 44,
+  "time_updated": "2026-09-08 17:03:59",
+  "n_docs": 45,
+  "n_docs_with_pdfs": 45,
+  "n_docs_with_text": 45,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2023-01-01",
-  "date_str_max": "2026-08-01",
-  "dataset_size": 116709533,
+  "date_str_max": "2026-09-01",
+  "dataset_size": 117479573,
   "url_source_list": [
     "https://www.sltda.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_tourism_weekly_reports",
-    "doc_id": "2026-08-01-2026-08-01",
-    "num": "2026-08-01",
-    "date_str": "2026-08-01",
-    "description": "TOURIST ARRIVALS - 2026 - August",
+    "doc_id": "2026-09-01-2026-09-01",
+    "num": "2026-09-01",
+    "date_str": "2026-09-01",
+    "description": "TOURIST ARRIVALS - 2026 - September",
     "url_metadata": "https://www.sltda.gov.lk/en/weekly-tourist-arrivals-reports-2026",
     "lang": "en",
-    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_6th_August_2026.pdf"
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/Weekly_Report_1st_to_7th_September_2026.pdf"
   }
 }
