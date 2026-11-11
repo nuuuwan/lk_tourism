@@ -2,15 +2,15 @@
   "doc_class_label": "lk_tourism_monthly_reports",
   "doc_class_emoji": "\ud83c\udf34",
   "doc_class_description": "Report on Monthly Tourist Arrivals to Sri Lanka.",
-  "time_updated": "2026-11-11 13:37:00",
-  "n_docs": 140,
-  "n_docs_with_pdfs": 139,
-  "n_docs_with_text": 139,
+  "time_updated": "2026-11-11 14:04:06",
+  "n_docs": 141,
+  "n_docs_with_pdfs": 140,
+  "n_docs_with_text": 140,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2015-01-01",
-  "date_str_max": "2026-09-01",
-  "dataset_size": 368827999,
+  "date_str_max": "2026-10-01",
+  "dataset_size": 370693941,
   "url_source_list": [
     "https://sltda.gov.lk",
     "https://www.sltda.gov.lk"
@@ -22,12 +22,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_tourism_monthly_reports",
-    "doc_id": "2026-09-01-2026-09-01",
-    "num": "2026-09-01",
-    "date_str": "2026-09-01",
-    "description": "Arrivals Report September 2026",
+    "doc_id": "2026-10-01-2026-10-01",
+    "num": "2026-10-01",
+    "date_str": "2026-10-01",
+    "description": "Arrivals Report October 2026",
     "url_metadata": "https://www.sltda.gov.lk/en/monthly-tourist-arrivals-reports-2026",
     "lang": "en",
-    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/MonthlyTouritsArrivalsReport-September-2026.pdf"
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/MonthlyTouristArrivalsFinalOctober2026.11.11.pdf"
   }
 }

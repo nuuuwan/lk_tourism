@@ -1398,5 +1398,15 @@
     "url_metadata": "https://www.sltda.gov.lk/en/monthly-tourist-arrivals-reports-2026",
     "lang": "en",
     "url_pdf": "https://www.sltda.gov.lk/storage/common_media/MonthlyTouritsArrivalsReport-September-2026.pdf"
+  },
+  {
+    "doc_type": "lk_tourism_monthly_reports",
+    "doc_id": "2026-10-01-2026-10-01",
+    "num": "2026-10-01",
+    "date_str": "2026-10-01",
+    "description": "Arrivals Report October 2026",
+    "url_metadata": "https://www.sltda.gov.lk/en/monthly-tourist-arrivals-reports-2026",
+    "lang": "en",
+    "url_pdf": "https://www.sltda.gov.lk/storage/common_media/MonthlyTouristArrivalsFinalOctober2026.11.11.pdf"
   }
 ]
